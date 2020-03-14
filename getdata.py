@@ -9,15 +9,16 @@ today = date.today()
 day = today.strftime("%d")
 month = today.strftime("%m")
 
-url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls.xlsx".format(month, day)
+try:
+  url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls".format(month, day)
+  df = pd.read_excel(url)
+except Exception as e:
+  today = today - timedelta(days = 1)
+  day = today.strftime("%d")
+  month = today.strftime("%m")
+  url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls".format(month, day)
+  df = pd.read_excel(url)
 
-df = pd.read_excel(url)
-
-def read_date(date):
-    return xlrd.xldate.xldate_as_datetime(date, 0)
-
-df['DateRep'] = pd.to_datetime(df['DateRep'].apply(read_date), errors='coerce')
-df.set_index('DateRep', inplace=True)
 df = df.sort_index()
 
 pprint(df.to_csv())
