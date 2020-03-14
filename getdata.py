@@ -21,4 +21,4 @@ except Exception as e:
 
 for index, row in df.iterrows():
     if row['DateRep'] is not 'Cases on an international conveyance Japan':
-      print(row['DateRep'], row['CountryExp'], row['NewConfCases'], row['NewConfCases'], row['NewDeaths'])
+      print(str(row['DateRep']) + ",", row['CountryExp'] + ",", str(row['NewConfCases']) + ",", str(row['NewDeaths']))
