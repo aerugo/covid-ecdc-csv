@@ -19,6 +19,7 @@ except Exception as e:
   url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls".format(month, day)
   df = pd.read_excel(url)
 
+print('DateRep,', 'CountryExp,', 'NewConfCases,', 'NewDeaths,', 'Region')
 for index, row in df.iterrows():
-    if row['DateRep'] is not 'Cases on an international conveyance Japan':
-      print(str(row['DateRep']) + ",", row['CountryExp'] + ",", str(row['NewConfCases']) + ",", str(row['NewDeaths']))
+    if row['CountryExp'] != 'Cases on an international conveyance Japan':
+      print(str(row['DateRep']) + ",", row['CountryExp'] + ",", str(row['NewConfCases']) + ",", str(row['NewDeaths']) + ",", str(row['EU']))
