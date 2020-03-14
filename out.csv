@@ -64,11 +64,13 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Afghanistan, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Afghanistan, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Afghanistan, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Albania, 10, 0, EU Candidate
 2020-03-13 00:00:00, Albania, 12, 0, EU Candidate
 2020-03-12 00:00:00, Albania, 1, 1, EU Candidate
 2020-03-11 00:00:00, Albania, 4, 0, EU Candidate
 2020-03-10 00:00:00, Albania, 4, 0, EU Candidate
 2020-03-09 00:00:00, Albania, 2, 0, EU Candidate
+2020-03-14 00:00:00, Algeria, 2, 1, Non-EU/EEA
 2020-03-13 00:00:00, Algeria, 4, 1, Non-EU/EEA
 2020-03-12 00:00:00, Algeria, 0, 0, Non-EU/EEA
 2020-03-09 00:00:00, Algeria, 3, 0, Non-EU/EEA
@@ -138,7 +140,9 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Algeria, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Algeria, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Algeria, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Andorra, 1, 0, Non-EU/EEA
 2020-03-03 00:00:00, Andorra, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Argentina, 3, 1, Non-EU/EEA
 2020-03-13 00:00:00, Argentina, 12, 0, Non-EU/EEA
 2020-03-11 00:00:00, Argentina, 7, 0, Non-EU/EEA
 2020-03-09 00:00:00, Argentina, 3, 0, Non-EU/EEA
@@ -146,6 +150,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-07 00:00:00, Argentina, 6, 0, Non-EU/EEA
 2020-03-06 00:00:00, Argentina, 1, 0, Non-EU/EEA
 2020-03-04 00:00:00, Argentina, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Armenia, 7, 0, Non-EU/EEA
 2020-03-13 00:00:00, Armenia, 2, 0, Non-EU/EEA
 2020-03-12 00:00:00, Armenia, 3, 0, Non-EU/EEA
 2020-03-02 00:00:00, Armenia, 0, 0, Non-EU/EEA
@@ -211,6 +216,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Armenia, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Armenia, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Armenia, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Australia, 41, 0, Non-EU/EEA
 2020-03-13 00:00:00, Australia, 30, 0, Non-EU/EEA
 2020-03-12 00:00:00, Australia, 14, 0, Non-EU/EEA
 2020-03-11 00:00:00, Australia, 12, 0, Non-EU/EEA
@@ -285,6 +291,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Australia, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Australia, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Australia, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Austria, 143, 0, EU
 2020-03-13 00:00:00, Austria, 115, 1, EU
 2020-03-12 00:00:00, Austria, 64, 0, EU
 2020-03-11 00:00:00, Austria, 51, 0, EU
@@ -427,8 +434,9 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Azerbaijan, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Azerbaijan, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Azerbaijan, 0, 0, Non-EU/EEA
-2020-03-13 00:00:00, Bahrain, -27, 0, Non-EU/EEA
-2020-03-12 00:00:00, Bahrain, 79, 0, Non-EU/EEA
+2020-03-14 00:00:00, Bahrain, 48, 0, Non-EU/EEA
+2020-03-13 00:00:00, Bahrain, 0, 0, Non-EU/EEA
+2020-03-12 00:00:00, Bahrain, 52, 0, Non-EU/EEA
 2020-03-11 00:00:00, Bahrain, 1, 0, Non-EU/EEA
 2020-03-10 00:00:00, Bahrain, 30, 0, Non-EU/EEA
 2020-03-09 00:00:00, Bahrain, 16, 0, Non-EU/EEA
@@ -569,6 +577,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Belarus, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Belarus, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Belarus, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Belgium, 160, 0, EU
 2020-03-13 00:00:00, Belgium, 85, 0, EU
 2020-03-12 00:00:00, Belgium, 47, 3, EU
 2020-03-11 00:00:00, Belgium, 28, 0, EU
@@ -645,11 +654,13 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2019-12-31 00:00:00, Belgium, 0, 0, EU
 2020-03-13 00:00:00, Bhutan, 0, 0, Non-EU/EEA
 2020-03-06 00:00:00, Bhutan, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Bolivia, 7, 0, Non-EU/EEA
 2020-03-13 00:00:00, Bolivia, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Bolivia, 2, 0, Non-EU/EEA
-2020-03-13 00:00:00, Bosnia and Herzegovina, 8, 0, Potential EU Candidate
+2020-03-13 00:00:00, Bosnia and Herzegovina, 0, 0, Potential EU Candidate
 2020-03-12 00:00:00, Bosnia and Herzegovina, 1, 0, Potential EU Candidate
 2020-03-06 00:00:00, Bosnia and Herzegovina, 2, 0, Potential EU Candidate
+2020-03-14 00:00:00, Brazil, 21, 0, Non-EU/EEA
 2020-03-13 00:00:00, Brazil, 25, 0, Non-EU/EEA
 2020-03-12 00:00:00, Brazil, 18, 0, Non-EU/EEA
 2020-03-11 00:00:00, Brazil, 9, 0, Non-EU/EEA
@@ -721,9 +732,11 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Brazil, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Brazil, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Brazil, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Brunei Darussalam, 12, 0, Non-EU/EEA
 2020-03-13 00:00:00, Brunei Darussalam, 14, 0, Non-EU/EEA
 2020-03-12 00:00:00, Brunei Darussalam, 10, 0, Non-EU/EEA
 2020-03-10 00:00:00, Brunei Darussalam, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Bulgaria, 8, 0, EU
 2020-03-13 00:00:00, Bulgaria, 16, 0, EU
 2020-03-12 00:00:00, Bulgaria, 3, 1, EU
 2020-03-09 00:00:00, Bulgaria, 2, 0, EU
@@ -798,6 +811,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2019-12-31 00:00:00, Cambodia, 0, 0, Non-EU/EEA
 2020-03-09 00:00:00, Cameroon, 1, 0, Non-EU/EEA
 2020-03-07 00:00:00, Cameroon, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Canada, 38, 0, Non-EU/EEA
 2020-03-13 00:00:00, Canada, 35, 0, Non-EU/EEA
 2020-03-12 00:00:00, Canada, 10, 0, Non-EU/EEA
 2020-03-11 00:00:00, Canada, 16, 0, Non-EU/EEA
@@ -872,6 +886,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Canada, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Canada, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Canada, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Chile, 10, 0, Non-EU/EEA
 2020-03-13 00:00:00, Chile, 10, 0, Non-EU/EEA
 2020-03-12 00:00:00, Chile, 6, 0, Non-EU/EEA
 2020-03-11 00:00:00, Chile, 4, 0, Non-EU/EEA
@@ -881,6 +896,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-06 00:00:00, Chile, 1, 0, Non-EU/EEA
 2020-03-05 00:00:00, Chile, 2, 0, Non-EU/EEA
 2020-03-04 00:00:00, Chile, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, China, 19, 15, Non-EU/EEA
 2020-03-13 00:00:00, China, 22, 7, Non-EU/EEA
 2020-03-12 00:00:00, China, 24, 11, Non-EU/EEA
 2020-03-11 00:00:00, China, 29, 22, Non-EU/EEA
@@ -955,9 +971,11 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, China, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, China, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, China, 27, 0, Non-EU/EEA
+2020-03-14 00:00:00, Colombia, 7, 0, Non-EU/EEA
 2020-03-12 00:00:00, Colombia, 6, 0, Non-EU/EEA
 2020-03-10 00:00:00, Colombia, 2, 0, Non-EU/EEA
 2020-03-07 00:00:00, Colombia, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Costa Rica, 3, 0, Non-EU/EEA
 2020-03-13 00:00:00, Costa Rica, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Costa Rica, 9, 0, Non-EU/EEA
 2020-03-11 00:00:00, Costa Rica, 4, 0, Non-EU/EEA
@@ -965,6 +983,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-09 00:00:00, Costa Rica, 4, 0, Non-EU/EEA
 2020-03-07 00:00:00, Costa Rica, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Cote dIvoire, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Croatia, 6, 0, EU
 2020-03-13 00:00:00, Croatia, 9, 0, EU
 2020-03-12 00:00:00, Croatia, 3, 0, EU
 2020-03-11 00:00:00, Croatia, 1, 0, EU
@@ -1036,9 +1055,12 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Croatia, 0, 0, EU
 2020-01-01 00:00:00, Croatia, 0, 0, EU
 2019-12-31 00:00:00, Croatia, 0, 0, EU
+2020-03-14 00:00:00, Cuba, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Cuba, 3, 0, Non-EU/EEA
+2020-03-14 00:00:00, Cyprus, 8, 0, EU
 2020-03-12 00:00:00, Cyprus, 4, 0, EU
 2020-03-10 00:00:00, Cyprus, 2, 0, EU
+2020-03-14 00:00:00, Czech Republic, 34, 0, EU
 2020-03-13 00:00:00, Czech Republic, 22, 0, EU
 2020-03-12 00:00:00, Czech republic, 31, 0, EU
 2020-03-11 00:00:00, Czech Republic, 23, 0, EU
@@ -1113,7 +1135,9 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Czech Republic, 0, 0, EU
 2020-01-01 00:00:00, Czech Republic, 0, 0, EU
 2019-12-31 00:00:00, Czech Republic, 0, 0, EU
+2020-03-14 00:00:00, Democratic Republic of the Congo, 1, 0, Non-EU/EEA
 2020-03-11 00:00:00, Democratic Republic of the Congo, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Denmark, 128, 0, EU
 2020-03-13 00:00:00, Denmark, 160, 0, EU
 2020-03-12 00:00:00, Denmark, 252, 0, EU
 2020-03-11 00:00:00, Denmark, 151, 0, EU
@@ -1188,6 +1212,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Denmark, 0, 0, EU
 2020-01-01 00:00:00, Denmark, 0, 0, EU
 2019-12-31 00:00:00, Denmark, 0, 0, EU
+2020-03-14 00:00:00, Dominican Republic, 6, 0, Non-EU/EEA
 2020-03-10 00:00:00, Dominican Republic, 3, 0, Non-EU/EEA
 2020-03-07 00:00:00, Dominican Republic, 1, 0, Non-EU/EEA
 2020-03-02 00:00:00, Dominican Republic, 1, 0, Non-EU/EEA
@@ -1253,6 +1278,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Dominican Republic, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Dominican Republic, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Dominican Republic, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Ecuador, 6, 1, Non-EU/EEA
 2020-03-11 00:00:00, Ecuador, 2, 0, Non-EU/EEA
 2020-03-10 00:00:00, Ecuador, 1, 0, Non-EU/EEA
 2020-03-09 00:00:00, Ecuador, 1, 0, Non-EU/EEA
@@ -1322,8 +1348,9 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Ecuador, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Ecuador, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Ecuador, 0, 0, Non-EU/EEA
-2020-03-13 00:00:00, Egypt, 20, 2, Non-EU/EEA
-2020-03-12 00:00:00, Egypt, 1, -1, Non-EU/EEA
+2020-03-14 00:00:00, Egypt, 13, 0, Non-EU/EEA
+2020-03-13 00:00:00, Egypt, 20, 1, Non-EU/EEA
+2020-03-12 00:00:00, Egypt, 1, 0, Non-EU/EEA
 2020-03-11 00:00:00, Egypt, 4, 0, Non-EU/EEA
 2020-03-10 00:00:00, Egypt, 6, 0, Non-EU/EEA
 2020-03-09 00:00:00, Egypt, 34, 1, Non-EU/EEA
@@ -1392,6 +1419,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Egypt, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Egypt, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Egypt, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Estonia, 52, 0, EU
 2020-03-13 00:00:00, Estonia, 11, 0, EU
 2020-03-12 00:00:00, Estonia, 3, 0, EU
 2020-03-11 00:00:00, Estonia, 3, 0, EU
@@ -1461,6 +1489,8 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Estonia, 0, 0, EU
 2020-01-01 00:00:00, Estonia, 0, 0, EU
 2019-12-31 00:00:00, Estonia, 0, 0, EU
+2020-03-14 00:00:00, Ethiopia, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Finland, 0, 0, EU
 2020-03-13 00:00:00, Finland, 96, 0, EU
 2020-03-12 00:00:00, Finland, 19, 0, EU
 2020-03-10 00:00:00, Finland, 10, 0, EU
@@ -1531,6 +1561,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Finland, 0, 0, EU
 2020-01-01 00:00:00, Finland, 0, 0, EU
 2019-12-31 00:00:00, Finland, 0, 0, EU
+2020-03-14 00:00:00, France, 785, 18, EU
 2020-03-13 00:00:00, France, 595, 13, EU
 2020-03-12 00:00:00, France, 497, 15, EU
 2020-03-11 00:00:00, France, 372, 3, EU
@@ -1606,6 +1637,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-01 00:00:00, France, 0, 0, EU
 2019-12-31 00:00:00, France, 0, 0, EU
 2020-03-13 00:00:00, Gabon, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Georgia, 21, 0, Non-EU/EEA
 2020-03-13 00:00:00, Georgia, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Georgia, 1, 0, Non-EU/EEA
 2020-03-11 00:00:00, Georgia, 8, 0, Non-EU/EEA
@@ -1677,6 +1709,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Georgia, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Georgia, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Georgia, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Germany, 693, 0, EU
 2020-03-13 00:00:00, Germany, 802, 2, EU
 2020-03-12 00:00:00, Germany, 271, 1, EU
 2020-03-11 00:00:00, Germany, 157, 0, EU
@@ -1752,6 +1785,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-01 00:00:00, Germany, 0, 0, EU
 2019-12-31 00:00:00, Germany, 0, 0, EU
 2020-03-13 00:00:00, Ghana, 2, 0, Non-EU/EEA
+2020-03-14 00:00:00, Greece, 57, 0, EU
 2020-03-13 00:00:00, Greece, 34, 0, EU
 2020-03-12 00:00:00, Greece, 9, 1, EU
 2020-03-11 00:00:00, Greece, 6, 0, EU
@@ -1824,9 +1858,12 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Greece, 0, 0, EU
 2020-01-01 00:00:00, Greece, 0, 0, EU
 2019-12-31 00:00:00, Greece, 0, 0, EU
+2020-03-14 00:00:00, Guinea, 1, 0, Non-EU/EEA
 2020-03-13 00:00:00, Guyana, 1, 1, Non-EU/EEA
 2020-03-07 00:00:00, Holy See, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Honduras, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Honduras, 2, 0, Non-EU/EEA
+2020-03-14 00:00:00, Hungary, 9, 0, EU
 2020-03-13 00:00:00, Hungary, 3, 0, EU
 2020-03-12 00:00:00, Hungary, 1, 0, EU
 2020-03-11 00:00:00, Hungary, 3, 0, EU
@@ -1835,6 +1872,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-08 00:00:00, Hungary, 3, 0, EU
 2020-03-07 00:00:00, Hungary, 2, 0, EU
 2020-03-05 00:00:00, Hungary, 2, 0, EU
+2020-03-14 00:00:00, Iceland, 0, 0, EEA
 2020-03-13 00:00:00, Iceland, 32, 0, EEA
 2020-03-12 00:00:00, Iceland, 15, 0, EEA
 2020-03-11 00:00:00, Iceland, 5, 0, EEA
@@ -1909,6 +1947,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Iceland, 0, 0, EEA
 2020-01-01 00:00:00, Iceland, 0, 0, EEA
 2019-12-31 00:00:00, Iceland, 0, 0, EEA
+2020-03-14 00:00:00, India, 8, 1, Non-EU/EEA
 2020-03-13 00:00:00, India, 2, 1, Non-EU/EEA
 2020-03-12 00:00:00, India, 23, 0, Non-EU/EEA
 2020-03-11 00:00:00, India, 6, 0, Non-EU/EEA
@@ -1982,6 +2021,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, India, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, India, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, India, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Indonesia, 35, 3, Non-EU/EEA
 2020-03-12 00:00:00, Indonesia, 15, 1, Non-EU/EEA
 2020-03-11 00:00:00, Indonesia, 13, 0, Non-EU/EEA
 2020-03-09 00:00:00, Indonesia, 2, 0, Non-EU/EEA
@@ -2049,6 +2089,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Indonesia, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Indonesia, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Indonesia, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Iran, 1289, 85, Non-EU/EEA
 2020-03-13 00:00:00, Iran, 1075, 75, Non-EU/EEA
 2020-03-12 00:00:00, Iran, 958, 63, Non-EU/EEA
 2020-03-11 00:00:00, Iran, 881, 54, Non-EU/EEA
@@ -2123,6 +2164,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Iran, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Iran, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Iran, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Iraq, 19, 1, Non-EU/EEA
 2020-03-13 00:00:00, Iraq, 4, 0, Non-EU/EEA
 2020-03-12 00:00:00, Iraq, 9, 2, Non-EU/EEA
 2020-03-11 00:00:00, Iraq, 0, 0, Non-EU/EEA
@@ -2195,6 +2237,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Iraq, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Iraq, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Iraq, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Ireland, 21, 0, EU
 2020-03-13 00:00:00, Ireland, 27, 0, EU
 2020-03-12 00:00:00, Ireland, 8, 1, EU
 2020-03-11 00:00:00, Ireland, 14, 0, EU
@@ -2267,6 +2310,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Ireland, 0, 0, EU
 2020-01-01 00:00:00, Ireland, 0, 0, EU
 2019-12-31 00:00:00, Ireland, 0, 0, EU
+2020-03-14 00:00:00, Israel, 20, 0, Non-EU/EEA
 2020-03-13 00:00:00, Israel, 14, 0, Non-EU/EEA
 2020-03-12 00:00:00, Israel, 12, 0, Non-EU/EEA
 2020-03-11 00:00:00, Israel, 31, 0, Non-EU/EEA
@@ -2338,6 +2382,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Israel, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Israel, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Israel, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Italy, 2547, 252, EU
 2020-03-13 00:00:00, Italy, 2651, 189, EU
 2020-03-12 00:00:00, Italy, 2313, 196, EU
 2020-03-11 00:00:00, Italy, 977, 167, EU
@@ -2412,8 +2457,10 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Italy, 0, 0, EU
 2020-01-01 00:00:00, Italy, 0, 0, EU
 2019-12-31 00:00:00, Italy, 0, 0, EU
+2020-03-14 00:00:00, Jamaica, 2, 0, Non-EU/EEA
 2020-03-13 00:00:00, Jamaica, 4, 0, Non-EU/EEA
 2020-03-12 00:00:00, Jamaica, 2, 0, Non-EU/EEA
+2020-03-14 00:00:00, Japan, 62, 2, Non-EU/EEA
 2020-03-13 00:00:00, Japan, 56, 4, Non-EU/EEA
 2020-03-12 00:00:00, Japan, 51, 3, Non-EU/EEA
 2020-03-11 00:00:00, Japan, 54, 3, Non-EU/EEA
@@ -2490,6 +2537,8 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2019-12-31 00:00:00, Japan, 0, 0, Non-EU/EEA
 2020-03-08 00:00:00, Jordan, 0, 0, Non-EU/EEA
 2020-03-03 00:00:00, Jordan, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Kenya, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Kuwait, 20, 0, Non-EU/EEA
 2020-03-13 00:00:00, Kuwait, 8, 0, Non-EU/EEA
 2020-03-12 00:00:00, Kuwait, 3, 0, Non-EU/EEA
 2020-03-11 00:00:00, Kuwait, 4, 0, Non-EU/EEA
@@ -2561,6 +2610,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Kuwait, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Kuwait, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Kuwait, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Latvia, 3, 0, EU
 2020-03-13 00:00:00, Latvia, 6, 0, EU
 2020-03-12 00:00:00, Latvia, 2, 0, EU
 2020-03-11 00:00:00, Latvia, 2, 0, EU
@@ -2568,7 +2618,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-09 00:00:00, Latvia, 1, 0, EU
 2020-03-08 00:00:00, Latvia, 1, 0, EU
 2020-03-03 00:00:00, Latvia, 1, 0, EU
-2020-03-13 00:00:00, Lebanon, 5, -2, Non-EU/EEA
+2020-03-13 00:00:00, Lebanon, 5, 0, Non-EU/EEA
 2020-03-12 00:00:00, Lebanon, 20, 1, Non-EU/EEA
 2020-03-11 00:00:00, Lebanon, 0, 1, Non-EU/EEA
 2020-03-10 00:00:00, Lebanon, 9, 0, Non-EU/EEA
@@ -2639,9 +2689,11 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Lebanon, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Lebanon, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Lebanon, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Liechtenstein, 0, 0, EEA
 2020-03-13 00:00:00, Liechtenstein, 1, 0, EEA
 2020-03-12 00:00:00, Liechtenstein, 2, 0, EEA
 2020-03-05 00:00:00, Liechtenstein, 1, 0, EEA
+2020-03-14 00:00:00, Lithuania, 3, 0, EU
 2020-03-12 00:00:00, Lithuania, 0, 0, EU
 2020-03-11 00:00:00, Lithuania, 2, 0, EU
 2020-03-02 00:00:00, Lithuania, 0, 0, EU
@@ -2707,6 +2759,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Lithuania, 0, 0, EU
 2020-01-01 00:00:00, Lithuania, 0, 0, EU
 2019-12-31 00:00:00, Lithuania, 0, 0, EU
+2020-03-14 00:00:00, Luxembourg, 12, 1, EU
 2020-03-13 00:00:00, Luxembourg, 19, 0, EU
 2020-03-12 00:00:00, Luxembourg, 0, 0, EU
 2020-03-11 00:00:00, Luxembourg, 2, 0, EU
@@ -2775,6 +2828,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Luxembourg, 0, 0, EU
 2020-01-01 00:00:00, Luxembourg, 0, 0, EU
 2019-12-31 00:00:00, Luxembourg, 0, 0, EU
+2020-03-14 00:00:00, Malaysia, 39, 0, Non-EU/EEA
 2020-03-13 00:00:00, Malaysia, 9, 0, Non-EU/EEA
 2020-03-12 00:00:00, Malaysia, 20, 0, Non-EU/EEA
 2020-03-11 00:00:00, Malaysia, 12, 0, Non-EU/EEA
@@ -2848,14 +2902,17 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Malaysia, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Malaysia, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Malaysia, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Maldives, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Maldives, 2, 0, Non-EU/EEA
 2020-03-11 00:00:00, Maldives, 2, 0, Non-EU/EEA
 2020-03-09 00:00:00, Maldives, 2, 0, Non-EU/EEA
 2020-03-08 00:00:00, Maldives, 2, 0, Non-EU/EEA
+2020-03-14 00:00:00, Malta, 3, 0, EU
 2020-03-13 00:00:00, Malta, 3, 0, EU
 2020-03-12 00:00:00, Malta, 2, 0, EU
 2020-03-10 00:00:00, Malta, 1, 0, EU
 2020-03-08 00:00:00, Malta, 3, 0, EU
+2020-03-14 00:00:00, Mexico, 10, 0, Non-EU/EEA
 2020-03-13 00:00:00, Mexico, 5, 0, Non-EU/EEA
 2020-03-12 00:00:00, Mexico, 4, 0, Non-EU/EEA
 2020-03-09 00:00:00, Mexico, 2, 0, Non-EU/EEA
@@ -2922,6 +2979,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Mexico, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Mexico, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Mexico, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Moldova, 2, 0, Non-EU/EEA
 2020-03-13 00:00:00, Moldova, 2, 0, Non-EU/EEA
 2020-03-12 00:00:00, Moldova, 1, 0, Non-EU/EEA
 2020-03-11 00:00:00, Moldova, 2, 0, Non-EU/EEA
@@ -2990,6 +3048,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-01 00:00:00, Monaco, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Monaco, 0, 0, Non-EU/EEA
 2020-03-10 00:00:00, Mongolia, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Morocco, 1, 0, Non-EU/EEA
 2020-03-13 00:00:00, Morocco, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Morocco, 3, 1, Non-EU/EEA
 2020-03-06 00:00:00, Morocco, 1, 0, Non-EU/EEA
@@ -3057,6 +3116,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Nepal, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Nepal, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Nepal, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Netherlands, 190, 0, EU
 2020-03-13 00:00:00, Netherlands, 111, 0, EU
 2020-03-12 00:00:00, Netherlands, 121, 1, EU
 2020-03-11 00:00:00, Netherlands, 61, 1, EU
@@ -3131,6 +3191,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Netherlands, 0, 0, EU
 2020-01-01 00:00:00, Netherlands, 0, 0, EU
 2019-12-31 00:00:00, Netherlands, 0, 0, EU
+2020-03-14 00:00:00, New Zealand, 1, 0, Non-EU/EEA
 2020-03-07 00:00:00, New Zealand, 1, 0, Non-EU/EEA
 2020-03-06 00:00:00, New Zealand, 1, 0, Non-EU/EEA
 2020-03-05 00:00:00, New Zealand, 1, 0, Non-EU/EEA
@@ -3262,6 +3323,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Nigeria, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Nigeria, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Nigeria, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, North Macedonia, 4, 0, EU Candidate
 2020-03-13 00:00:00, North Macedonia, 2, 0, EU Candidate
 2020-03-11 00:00:00, North Macedonia, 4, 0, EU Candidate
 2020-03-07 00:00:00, North Macedonia, 2, 0, EU Candidate
@@ -3328,6 +3390,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, North Macedonia, 0, 0, EU Candidate
 2020-01-01 00:00:00, North Macedonia, 0, 0, EU Candidate
 2019-12-31 00:00:00, North Macedonia, 0, 0, EU Candidate
+2020-03-14 00:00:00, Norway, 0, 0, EEA
 2020-03-13 00:00:00, Norway, 132, 1, EEA
 2020-03-12 00:00:00, Norway, 212, 0, EEA
 2020-03-11 00:00:00, Norway, 85, 0, EEA
@@ -3402,6 +3465,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Norway, 0, 0, EEA
 2020-01-01 00:00:00, Norway, 0, 0, EEA
 2019-12-31 00:00:00, Norway, 0, 0, EEA
+2020-03-14 00:00:00, Oman, 2, 0, Non-EU/EEA
 2020-03-11 00:00:00, Oman, 0, 0, Non-EU/EEA
 2020-03-10 00:00:00, Oman, 2, 0, Non-EU/EEA
 2020-03-06 00:00:00, Oman, 1, 0, Non-EU/EEA
@@ -3470,6 +3534,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Oman, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Oman, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Oman, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Pakistan, 0, 0, Non-EU/EEA
 2020-03-13 00:00:00, Pakistan, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Pakistan, 4, 0, Non-EU/EEA
 2020-03-11 00:00:00, Pakistan, 0, 0, Non-EU/EEA
@@ -3539,29 +3604,34 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Pakistan, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Pakistan, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Pakistan, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Palestine, 5, 0, Non-EU/EEA
 2020-03-12 00:00:00, Palestine, 1, 0, Non-EU/EEA
 2020-03-11 00:00:00, Palestine, 9, 0, Non-EU/EEA
 2020-03-10 00:00:00, Palestine, 1, 0, Non-EU/EEA
 2020-03-08 00:00:00, Palestine, 3, 0, Non-EU/EEA
 2020-03-07 00:00:00, Palestine, 9, 0, Non-EU/EEA
 2020-03-06 00:00:00, Palestine, 7, 0, Non-EU/EEA
+2020-03-14 00:00:00, Panama, 9, 0, Non-EU/EEA
 2020-03-13 00:00:00, Panama, 13, 0, Non-EU/EEA
 2020-03-12 00:00:00, Panama, 7, 0, Non-EU/EEA
 2020-03-11 00:00:00, Panama, 6, 1, Non-EU/EEA
 2020-03-10 00:00:00, Panama, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Paraguay, 1, 0, Non-EU/EEA
 2020-03-13 00:00:00, Paraguay, 1, 0, Non-EU/EEA
 2020-03-11 00:00:00, Paraguay, 4, 0, Non-EU/EEA
 2020-03-08 00:00:00, Paraguay, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Peru, 16, 0, Non-EU/EEA
 2020-03-13 00:00:00, Peru, 5, 0, Non-EU/EEA
 2020-03-12 00:00:00, Peru, 6, 0, Non-EU/EEA
 2020-03-11 00:00:00, Peru, 2, 0, Non-EU/EEA
 2020-03-10 00:00:00, Peru, 2, 0, Non-EU/EEA
 2020-03-09 00:00:00, Peru, 6, 0, Non-EU/EEA
 2020-03-07 00:00:00, Peru, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Philippines, 12, 4, Non-EU/EEA
 2020-03-13 00:00:00, Philippines, 3, 0, Non-EU/EEA
 2020-03-12 00:00:00, Philippines, 16, 1, Non-EU/EEA
-2020-03-11 00:00:00, Philippines, -2, 0, Non-EU/EEA
-2020-03-10 00:00:00, Philippines, 25, 0, Non-EU/EEA
+2020-03-11 00:00:00, Philippines, 0, 0, Non-EU/EEA
+2020-03-10 00:00:00, Philippines, 23, 0, Non-EU/EEA
 2020-03-09 00:00:00, Philippines, 4, 0, Non-EU/EEA
 2020-03-08 00:00:00, Philippines, 1, 0, Non-EU/EEA
 2020-03-07 00:00:00, Philippines, 2, 0, Non-EU/EEA
@@ -3628,6 +3698,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Philippines, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Philippines, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Philippines, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Poland, 19, 1, EU
 2020-03-13 00:00:00, Poland, 18, 1, EU
 2020-03-12 00:00:00, Poland, 9, 0, EU
 2020-03-11 00:00:00, Poland, 5, 0, EU
@@ -3636,6 +3707,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-08 00:00:00, Poland, 1, 0, EU
 2020-03-07 00:00:00, Poland, 4, 0, EU
 2020-03-04 00:00:00, Poland, 1, 0, EU
+2020-03-14 00:00:00, Portugal, 34, 1, EU
 2020-03-13 00:00:00, Portugal, 19, 0, EU
 2020-03-12 00:00:00, Portugal, 18, 0, EU
 2020-03-11 00:00:00, Portugal, 2, 0, EU
@@ -3647,6 +3719,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-05 00:00:00, Portugal, 1, 0, EU
 2020-03-04 00:00:00, Portugal, 2, 0, EU
 2020-03-03 00:00:00, Portugal, 2, 0, EU
+2020-03-14 00:00:00, Qatar, 58, 0, Non-EU/EEA
 2020-03-12 00:00:00, Qatar, 238, 0, Non-EU/EEA
 2020-03-11 00:00:00, Qatar, 6, 0, Non-EU/EEA
 2020-03-10 00:00:00, Qatar, 3, 0, Non-EU/EEA
@@ -3717,6 +3790,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Qatar, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Qatar, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Qatar, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Romania, 25, 0, EU
 2020-03-13 00:00:00, Romania, 19, 0, EU
 2020-03-12 00:00:00, Romania, 20, 0, EU
 2020-03-11 00:00:00, Romania, 8, 0, EU
@@ -3789,9 +3863,10 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Romania, 0, 0, EU
 2020-01-01 00:00:00, Romania, 0, 0, EU
 2019-12-31 00:00:00, Romania, 0, 0, EU
-2020-03-13 00:00:00, Russia, 14, 0, Non-EU/EEA
-2020-03-12 00:00:00, Russia, 0, 0, Non-EU/EEA
-2020-03-10 00:00:00, Russia, 10, 0, Non-EU/EEA
+2020-03-14 00:00:00, Russia, 15, 0, Non-EU/EEA
+2020-03-13 00:00:00, Russia, 5, 0, Non-EU/EEA
+2020-03-12 00:00:00, Russia, 15, 0, Non-EU/EEA
+2020-03-10 00:00:00, Russia, 0, 0, Non-EU/EEA
 2020-03-07 00:00:00, Russia, 6, 0, Non-EU/EEA
 2020-03-04 00:00:00, Russia, 1, 0, Non-EU/EEA
 2020-03-03 00:00:00, Russia, 1, 0, Non-EU/EEA
@@ -3859,6 +3934,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-01 00:00:00, Russia, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Russia, 0, 0, Non-EU/EEA
 2020-03-13 00:00:00, Saint Vincent and the Grenadines, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, San Marino, 6, 0, Non-EU/EEA
 2020-03-13 00:00:00, San Marino, 1, 2, Non-EU/EEA
 2020-03-12 00:00:00, San Marino, 4, 1, Non-EU/EEA
 2020-03-11 00:00:00, San Marino, 13, 0, Non-EU/EEA
@@ -3932,6 +4008,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, San Marino, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, San Marino, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, San Marino, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Saudi Arabia, 24, 0, Non-EU/EEA
 2020-03-13 00:00:00, Saudi Arabia, 17, 0, Non-EU/EEA
 2020-03-12 00:00:00, Saudi Arabia, 25, 0, Non-EU/EEA
 2020-03-11 00:00:00, Saudi Arabia, 5, 0, Non-EU/EEA
@@ -3940,14 +4017,17 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-08 00:00:00, Saudi Arabia, 2, 0, Non-EU/EEA
 2020-03-06 00:00:00, Saudi Arabia, 4, 0, Non-EU/EEA
 2020-03-03 00:00:00, Saudi Arabia, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Senegal, 13, 0, Non-EU/EEA
 2020-03-13 00:00:00, Senegal, 2, 0, Non-EU/EEA
 2020-03-06 00:00:00, Senegal, 1, 0, Non-EU/EEA
 2020-03-05 00:00:00, Senegal, 2, 0, Non-EU/EEA
 2020-03-03 00:00:00, Senegal, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Serbia, 17, 0, EU Candidate
 2020-03-13 00:00:00, Serbia, 6, 0, EU Candidate
 2020-03-12 00:00:00, Serbia, 13, 0, EU Candidate
 2020-03-11 00:00:00, Serbia, 4, 0, EU Candidate
 2020-03-07 00:00:00, Serbia, 1, 0, EU Candidate
+2020-03-14 00:00:00, Singapore, 13, 0, Non-EU/EEA
 2020-03-13 00:00:00, Singapore, 9, 0, Non-EU/EEA
 2020-03-12 00:00:00, Singapore, 12, 0, Non-EU/EEA
 2020-03-11 00:00:00, Singapore, 6, 0, Non-EU/EEA
@@ -4022,12 +4102,14 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Singapore, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Singapore, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Singapore, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Slovakia, 9, 0, EU
 2020-03-13 00:00:00, Slovakia, 11, 0, EU
 2020-03-12 00:00:00, Slovakia, 3, 0, EU
 2020-03-11 00:00:00, Slovakia, 2, 0, EU
 2020-03-09 00:00:00, Slovakia, 2, 0, EU
 2020-03-08 00:00:00, Slovakia, 2, 0, EU
 2020-03-07 00:00:00, Slovakia, 1, 0, EU
+2020-03-14 00:00:00, Slovenia, 45, 0, EU
 2020-03-13 00:00:00, Slovenia, 39, 0, EU
 2020-03-12 00:00:00, Slovenia, 26, 0, EU
 2020-03-11 00:00:00, Slovenia, 15, 0, EU
@@ -4036,12 +4118,14 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-03-07 00:00:00, Slovenia, 3, 0, EU
 2020-03-06 00:00:00, Slovenia, 5, 0, EU
 2020-03-05 00:00:00, Slovenia, 1, 0, EU
+2020-03-14 00:00:00, South Africa, 7, 0, Non-EU/EEA
 2020-03-13 00:00:00, South Africa, 4, 0, Non-EU/EEA
 2020-03-12 00:00:00, South Africa, 6, 0, Non-EU/EEA
 2020-03-10 00:00:00, South Africa, 4, 0, Non-EU/EEA
 2020-03-09 00:00:00, South Africa, 1, 0, Non-EU/EEA
 2020-03-08 00:00:00, South Africa, 1, 0, Non-EU/EEA
 2020-03-06 00:00:00, South Africa, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, South Korea, 107, 5, Non-EU/EEA
 2020-03-13 00:00:00, South Korea, 110, 1, Non-EU/EEA
 2020-03-12 00:00:00, South Korea, 114, 6, Non-EU/EEA
 2020-03-11 00:00:00, South Korea, 242, 6, Non-EU/EEA
@@ -4116,6 +4200,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, South Korea, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, South Korea, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, South Korea, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Spain, 1227, 37, EU
 2020-03-13 00:00:00, Spain, 864, 37, EU
 2020-03-12 00:00:00, Spain, 501, 12, EU
 2020-03-11 00:00:00, Spain, 435, 7, EU
@@ -4190,6 +4275,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Spain, 0, 0, EU
 2020-01-01 00:00:00, Spain, 0, 0, EU
 2019-12-31 00:00:00, Spain, 0, 0, EU
+2020-03-14 00:00:00, Sri Lanka, 3, 0, Non-EU/EEA
 2020-03-13 00:00:00, Sri Lanka, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Sri Lanka, 1, 0, Non-EU/EEA
 2020-03-02 00:00:00, Sri Lanka, 0, 0, Non-EU/EEA
@@ -4255,6 +4341,8 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Sri Lanka, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Sri Lanka, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Sri Lanka, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Sudan, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Sweden, 155, 0, EU
 2020-03-13 00:00:00, Sweden, 158, 0, EU
 2020-03-12 00:00:00, Sweden, 136, 1, EU
 2020-03-11 00:00:00, Sweden, 78, 0, EU
@@ -4329,6 +4417,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Sweden, 0, 0, EU
 2020-01-01 00:00:00, Sweden, 0, 0, EU
 2019-12-31 00:00:00, Sweden, 0, 0, EU
+2020-03-14 00:00:00, switzerland, 267, 3, Non-EU/EEA
 2020-03-13 00:00:00, Switzerland, 212, 0, Non-EU/EEA
 2020-03-12 00:00:00, Switzerland, 152, 1, Non-EU/EEA
 2020-03-11 00:00:00, Switzerland, 116, 1, Non-EU/EEA
@@ -4403,6 +4492,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Switzerland, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Switzerland, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Switzerland, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Taiwan, 4, 0, Non-EU/EEA
 2020-03-13 00:00:00, Taiwan, 1, 0, Non-EU/EEA
 2020-03-12 00:00:00, Taiwan, 0, 0, Non-EU/EEA
 2020-03-11 00:00:00, Taiwan, 3, 0, Non-EU/EEA
@@ -4475,6 +4565,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, Taiwan, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, Taiwan, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Taiwan, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Thailand, 12, 0, Non-EU/EEA
 2020-03-12 00:00:00, Thailand, 11, 0, Non-EU/EEA
 2020-03-11 00:00:00, Thailand, 9, 0, Non-EU/EEA
 2020-03-07 00:00:00, Thailand, 3, 0, Non-EU/EEA
@@ -4543,7 +4634,9 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-01 00:00:00, Thailand, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, Thailand, 0, 0, Non-EU/EEA
 2020-03-07 00:00:00, Togo, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Trinidad and Tobago, 1, 0, Non-EU/EEA
 2020-03-13 00:00:00, Trinidad and Tobago, 1, 0, Non-EU/EEA
+2020-03-14 00:00:00, Tunisia, 3, 0, Non-EU/EEA
 2020-03-13 00:00:00, Tunisia, 6, 0, Non-EU/EEA
 2020-03-12 00:00:00, Tunisia, 2, 0, Non-EU/EEA
 2020-03-11 00:00:00, Tunisia, 3, 0, Non-EU/EEA
@@ -4622,6 +4715,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, United Arab Emirates, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, United Arab Emirates, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, United Arab Emirates, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, United Kingdom, 117, 0, Former EU
 2020-03-13 00:00:00, United Kingdom, 134, 4, Former EU
 2020-03-12 00:00:00, United kingdom, 83, 0, Former EU
 2020-03-11 00:00:00, United Kingdom, 52, 1, Former EU
@@ -4696,6 +4790,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, United Kingdom, 0, 0, Former EU
 2020-01-01 00:00:00, United Kingdom, 0, 0, Former EU
 2019-12-31 00:00:00, United Kingdom, 0, 0, Former EU
+2020-03-14 00:00:00, United States of America, 511, 7, Non-EU/EEA
 2020-03-13 00:00:00, United States of America, 351, 10, Non-EU/EEA
 2020-03-12 00:00:00, United States of America, 287, 2, Non-EU/EEA
 2020-03-11 00:00:00, United States of America, 271, 2, Non-EU/EEA
@@ -4770,6 +4865,7 @@ DateRep, CountryExp, NewConfCases, NewDeaths, Region
 2020-01-02 00:00:00, United States of America, 0, 0, Non-EU/EEA
 2020-01-01 00:00:00, United States of America, 0, 0, Non-EU/EEA
 2019-12-31 00:00:00, United States of America, 0, 0, Non-EU/EEA
+2020-03-14 00:00:00, Vietnam, 5, 0, Non-EU/EEA
 2020-03-13 00:00:00, Vietnam, 5, 0, Non-EU/EEA
 2020-03-12 00:00:00, Vietnam, 4, 0, Non-EU/EEA
 2020-03-11 00:00:00, Vietnam, 4, 0, Non-EU/EEA
