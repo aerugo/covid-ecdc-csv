@@ -1,7 +1,7 @@
 # Alarm indicator on country-level
 
 ## SUMMARY
-I have developed a spreadsheet that takes the latest ECDC data and calculates if a country looks like it may be heading for a high number casualties. It also shows deaths as a percentage of country population, to measure severity for society. Italy is currently the worst by far.
+This script feeds the latest ECDC data on the Covid-19 outbreak and calculates if a country looks like it may be heading for a high number casualties. It also shows deaths as a percentage of country population, to measure severity for society. 
 
 ## DISCLAIMER:
 This is my own work. I am not a professional in this field. My highest qualification is a degree in biotechnology and bioinformatics, which is barely related to this at all, apart from making me comfortable with looking at data. I made this to satisfy my own curiosity and thought others might benefit.
