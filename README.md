@@ -1,7 +1,7 @@
 # Alarm indicator on country-level
 
 ## SUMMARY
-This script prepares official ECDC data for a [spreadsheet](https://docs.google.com/spreadsheets/d/1atFrVH6u4IPVezzzhqszDQH1QouvGJkalGySahh6j1A/edit?usp=sharing) that takes the latest ECDC data and calculates if a country looks like it may be heading for a high number casualties. It also shows deaths as a percentage of country population, to measure severity for society. Italy is currently the worst by far.
+I have developed a spreadsheet that takes the latest ECDC data and calculates if a country looks like it may be heading for a high number casualties. It also shows deaths as a percentage of country population, to measure severity for society. Italy is currently the worst by far.
 
 ## DISCLAIMER:
 This is my own work. I am not a professional in this field. My highest qualification is a degree in biotechnology and bioinformatics, which is barely related to this at all, apart from making me comfortable with looking at data. I made this to satisfy my own curiosity and thought others might benefit.
@@ -19,13 +19,19 @@ Another important metic is the dDa number. It is the difference between new deat
 
 This is how I calculate if a country gets an alarm:
 
-C = Confirmed cases
-C7 = Confirmed cases 7 days ago
-dDa = Growth of new deaths, averaged over 2 days (for todays data) or 3 days (older data)
-Ai (Alarm index) =  dDa * (C/C7)
-Ait = Alarm index today
-Aiy = Alarm index yesterday 
-As (Alarm signal) = "ALARM" if Ait > Aiy and Ait > 1
+**C** = Confirmed cases
+
+**C7** = Confirmed cases 7 days ago
+
+**dDa** = Growth of new deaths, averaged over 2 days (for todays data) or 3 days (older data)
+
+**Ai** (Alarm index) =  **dDa** * (**C**/**C7**)
+
+**Ait** = Alarm index today
+
+**Aiy** = Alarm index yesterday 
+
+**As** (Alarm signal) = "ALARM" if **Ait** > **Aiy** and **Ait** > 1
 
 Finally, I show a country as having an alarm for a given day if it evaluates as an alarm for any day around it +-3. When only considering todays data, this means in that a country is rated as having an alarm if it has had an alarm within the last 4 days.
 
