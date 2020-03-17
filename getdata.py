@@ -11,15 +11,24 @@ month = today.strftime("%m")
 
 try:
   url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls".format(month, day)
+  try:
+    df = pd.read_excel(url)
+  except:
+    url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xlsx".format(month, day)
+    df = pd.read_excel(url)
   df = pd.read_excel(url)
 except Exception as e:
   today = today - timedelta(days = 1)
   day = today.strftime("%d")
   month = today.strftime("%m")
-  url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls".format(month, day)
+  try:
+    df = pd.read_excel(url)
+  except:
+    url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls".format(month, day)
+    df = pd.read_excel(url)
   df = pd.read_excel(url)
 
-print('DateRep,', 'CountryExp,', 'NewConfCases,', 'NewDeaths,', 'Region')
+print('DateRep,', 'Countries and territories', 'NewConfCases,', 'NewDeaths,', 'Region')
 for index, row in df.iterrows():
-    if row['CountryExp'] != 'Cases on an international conveyance Japan':
-      print(str(row['DateRep']) + ",", row['CountryExp'] + ",", str(row['NewConfCases']) + ",", str(row['NewDeaths']) + ",", str(row['EU']))
+    if row['GeoId'] != 'JPG11668':
+      print(str(row['DateRep']) + ",", row['Countries and territories'] + ",", str(row['Cases']) + ",", str(row['Deaths']))
