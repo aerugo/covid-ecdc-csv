@@ -29,7 +29,7 @@ except Exception as e:
     df = pd.read_excel(url)
   df = pd.read_excel(url)
 
-print('DateRep,', 'Countries and territories,', 'NewConfCases,', 'NewDeaths,', 'Region')
+print('DateRep,', 'Countries and territories,', 'NewConfCases,', 'NewDeaths,')
 for index, row in df.iterrows():
     if row['GeoId'] != 'JPG11668':
       print(str(row['DateRep']) + ",", row['Countries and territories'] + ",", str(row['Cases']) + ",", str(row['Deaths']))
