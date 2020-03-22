@@ -11,12 +11,10 @@ month = today.strftime("%m")
 
 try:
   url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls".format(month, day)
-  print(url)
   try:
     df = pd.read_excel(url)
   except:
     url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xlsx".format(month, day)
-    print(url)
     df = pd.read_excel(url)
   df = pd.read_excel(url)
 except Exception as e:
@@ -24,12 +22,10 @@ except Exception as e:
   day = today.strftime("%d")
   month = today.strftime("%m")
   url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xls".format(month, day)
-  print(url)
   try:
     df = pd.read_excel(url)
   except:
     url  = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-{}-{}.xlsx".format(month, day)
-    print(url)
     df = pd.read_excel(url)
   df = pd.read_excel(url)
 
