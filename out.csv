@@ -1,4 +1,5 @@
 DateRep, Countries and territories, NewConfCases, NewDeaths
+2020-03-24 00:00:00, Afghanistan, 6, 1
 2020-03-23 00:00:00, Afghanistan, 10, 0
 2020-03-22 00:00:00, Afghanistan, 0, 0
 2020-03-21 00:00:00, Afghanistan, 2, 0
@@ -73,8 +74,10 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Afghanistan, 0, 0
 2020-01-01 00:00:00, Afghanistan, 0, 0
 2019-12-31 00:00:00, Afghanistan, 0, 0
+2020-03-24 00:00:00, Angola, 0, 0
 2020-03-23 00:00:00, Angola, 0, 0
 2020-03-22 00:00:00, Angola, 2, 0
+2020-03-24 00:00:00, Albania, 11, 2
 2020-03-23 00:00:00, Albania, 13, 0
 2020-03-22 00:00:00, Albania, 6, 0
 2020-03-21 00:00:00, Albania, 0, 0
@@ -90,6 +93,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-11 00:00:00, Albania, 4, 0
 2020-03-10 00:00:00, Albania, 4, 0
 2020-03-09 00:00:00, Albania, 2, 0
+2020-03-24 00:00:00, Andorra, 20, 0
 2020-03-23 00:00:00, Andorra, 25, 0
 2020-03-22 00:00:00, Andorra, 13, 0
 2020-03-21 00:00:00, Andorra, 0, 0
@@ -100,6 +104,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Andorra, 3, 0
 2020-03-14 00:00:00, Andorra, 1, 0
 2020-03-03 00:00:00, Andorra, 1, 0
+2020-03-24 00:00:00, Argentina, 35, 0
 2020-03-23 00:00:00, Argentina, 41, 0
 2020-03-22 00:00:00, Argentina, 67, 1
 2020-03-21 00:00:00, Argentina, 30, 0
@@ -117,22 +122,17 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-07 00:00:00, Argentina, 6, 0
 2020-03-06 00:00:00, Argentina, 1, 0
 2020-03-04 00:00:00, Argentina, 1, 0
+2020-03-24 00:00:00, Armenia, 4, 0
 2020-03-23 00:00:00, Armenia, 30, 0
 2020-03-22 00:00:00, Armenia, 24, 0
 2020-03-21 00:00:00, Armenia, 14, 0
 2020-03-20 00:00:00, Armenia, 7, 0
-2020-03-19 00:00:00, Armenia, 37, 0
-2020-03-18 00:00:00, Armenia, 26, 0
-2020-03-17 00:00:00, Armenia, 22, 0
-2020-03-16 00:00:00, Armenia, 10, 0
-2020-03-15 00:00:00, Armenia, 7, 0
-2020-03-14 00:00:00, Armenia, 7, 0
-2020-03-13 00:00:00, Armenia, 2, 0
-2020-03-12 00:00:00, Armenia, 3, 0
+2020-03-24 00:00:00, Antigua_and_Barbuda, 0, 0
 2020-03-23 00:00:00, Antigua_and_Barbuda, 0, 0
 2020-03-22 00:00:00, Antigua_and_Barbuda, 0, 0
 2020-03-21 00:00:00, Antigua_and_Barbuda, 0, 0
 2020-03-15 00:00:00, Antigua_and_Barbuda, 1, 0
+2020-03-24 00:00:00, Algeria, 87, 2
 2020-03-23 00:00:00, Algeria, 8, 5
 2020-03-22 00:00:00, Algeria, 0, 0
 2020-03-21 00:00:00, Algeria, 12, 3
@@ -212,6 +212,14 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Algeria, 0, 0
 2020-01-01 00:00:00, Algeria, 0, 0
 2019-12-31 00:00:00, Algeria, 0, 0
+2020-03-19 00:00:00, Armenia, 37, 0
+2020-03-18 00:00:00, Armenia, 26, 0
+2020-03-17 00:00:00, Armenia, 22, 0
+2020-03-16 00:00:00, Armenia, 10, 0
+2020-03-15 00:00:00, Armenia, 7, 0
+2020-03-14 00:00:00, Armenia, 7, 0
+2020-03-13 00:00:00, Armenia, 2, 0
+2020-03-12 00:00:00, Armenia, 3, 0
 2020-03-02 00:00:00, Armenia, 0, 0
 2020-03-01 00:00:00, Armenia, 1, 0
 2020-02-29 00:00:00, Armenia, 0, 0
@@ -275,6 +283,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Armenia, 0, 0
 2020-01-01 00:00:00, Armenia, 0, 0
 2019-12-31 00:00:00, Armenia, 0, 0
+2020-03-24 00:00:00, Australia, 114, 0
 2020-03-23 00:00:00, Australia, 611, 0
 2020-03-22 00:00:00, Australia, 224, 0
 2020-03-21 00:00:00, Australia, 165, 1
@@ -359,6 +368,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Australia, 0, 0
 2020-01-01 00:00:00, Australia, 0, 0
 2019-12-31 00:00:00, Australia, 0, 0
+2020-03-24 00:00:00, Austria, 855, 9
 2020-03-23 00:00:00, Austria, 607, 8
 2020-03-22 00:00:00, Austria, 375, 2
 2020-03-21 00:00:00, Austria, 453, 0
@@ -443,6 +453,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Austria, 0, 0
 2020-01-01 00:00:00, Austria, 0, 0
 2019-12-31 00:00:00, Austria, 0, 0
+2020-03-24 00:00:00, Azerbaijan, 7, 0
 2020-03-23 00:00:00, Azerbaijan, 12, 0
 2020-03-22 00:00:00, Azerbaijan, 9, 0
 2020-03-21 00:00:00, Azerbaijan, 0, 1
@@ -520,12 +531,14 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Azerbaijan, 0, 0
 2020-01-01 00:00:00, Azerbaijan, 0, 0
 2019-12-31 00:00:00, Azerbaijan, 0, 0
+2020-03-24 00:00:00, Bahamas, 0, 0
 2020-03-23 00:00:00, Bahamas, 0, 0
 2020-03-22 00:00:00, Bahamas, 0, 0
 2020-03-21 00:00:00, Bahamas, 1, 0
 2020-03-20 00:00:00, Bahamas, 2, 0
 2020-03-17 00:00:00, Bahamas, 0, 0
 2020-03-16 00:00:00, Bahamas, 1, 0
+2020-03-24 00:00:00, Bahrain, 5, 0
 2020-03-23 00:00:00, Bahrain, 28, 1
 2020-03-22 00:00:00, Bahrain, 21, 0
 2020-03-21 00:00:00, Bahrain, 16, 0
@@ -609,6 +622,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Bahrain, 0, 0
 2020-01-01 00:00:00, Bahrain, 0, 0
 2019-12-31 00:00:00, Bahrain, 0, 0
+2020-03-24 00:00:00, Bangladesh, 6, 0
 2020-03-23 00:00:00, Bangladesh, 3, 1
 2020-03-22 00:00:00, Bangladesh, 7, 2
 2020-03-21 00:00:00, Bangladesh, 7, 0
@@ -618,12 +632,14 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Bangladesh, 2, 0
 2020-03-15 00:00:00, Bangladesh, 0, 0
 2020-03-09 00:00:00, Bangladesh, 3, 0
+2020-03-24 00:00:00, Barbados, 0, 0
 2020-03-23 00:00:00, Barbados, 3, 0
 2020-03-22 00:00:00, Barbados, 8, 0
 2020-03-21 00:00:00, Barbados, 4, 0
 2020-03-20 00:00:00, Barbados, 1, 0
 2020-03-19 00:00:00, Barbados, 0, 0
 2020-03-18 00:00:00, Barbados, 1, 0
+2020-03-24 00:00:00, Belarus, 5, 0
 2020-03-23 00:00:00, Belarus, 0, 0
 2020-03-22 00:00:00, Belarus, 19, 0
 2020-03-21 00:00:00, Belarus, 0, 0
@@ -700,6 +716,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Belarus, 0, 0
 2020-01-01 00:00:00, Belarus, 0, 0
 2019-12-31 00:00:00, Belarus, 0, 0
+2020-03-24 00:00:00, Belgium, 342, 13
 2020-03-23 00:00:00, Belgium, 586, 8
 2020-03-22 00:00:00, Belgium, 558, 30
 2020-03-21 00:00:00, Belgium, 462, 16
@@ -784,6 +801,8 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Belgium, 0, 0
 2020-01-01 00:00:00, Belgium, 0, 0
 2019-12-31 00:00:00, Belgium, 0, 0
+2020-03-24 00:00:00, Belize, 1, 0
+2020-03-24 00:00:00, Benin, 3, 0
 2020-03-23 00:00:00, Benin, 0, 0
 2020-03-22 00:00:00, Benin, 0, 0
 2020-03-21 00:00:00, Benin, 0, 0
@@ -791,10 +810,12 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-19 00:00:00, Benin, 0, 0
 2020-03-18 00:00:00, Benin, 0, 0
 2020-03-17 00:00:00, Benin, 1, 0
+2020-03-24 00:00:00, Bermuda, 0, 0
 2020-03-23 00:00:00, Bermuda, 4, 0
 2020-03-22 00:00:00, Bermuda, 0, 0
 2020-03-21 00:00:00, Bermuda, 0, 0
 2020-03-20 00:00:00, Bermuda, 2, 0
+2020-03-24 00:00:00, Bhutan, 0, 0
 2020-03-23 00:00:00, Bhutan, 0, 0
 2020-03-22 00:00:00, Bhutan, 0, 0
 2020-03-21 00:00:00, Bhutan, 1, 0
@@ -805,6 +826,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-15 00:00:00, Bhutan, 0, 0
 2020-03-13 00:00:00, Bhutan, 0, 0
 2020-03-06 00:00:00, Bhutan, 1, 0
+2020-03-24 00:00:00, Bolivia, 1, 0
 2020-03-23 00:00:00, Bolivia, 7, 0
 2020-03-22 00:00:00, Bolivia, 1, 0
 2020-03-21 00:00:00, Bolivia, 4, 0
@@ -816,6 +838,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-14 00:00:00, Bolivia, 7, 0
 2020-03-13 00:00:00, Bolivia, 1, 0
 2020-03-12 00:00:00, Bolivia, 2, 0
+2020-03-24 00:00:00, Bosnia_and_Herzegovina, 4, 0
 2020-03-23 00:00:00, Bosnia_and_Herzegovina, 33, 0
 2020-03-22 00:00:00, Bosnia_and_Herzegovina, 48, 1
 2020-03-21 00:00:00, Bosnia_and_Herzegovina, 0, 0
@@ -827,6 +850,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-13 00:00:00, Bosnia_and_Herzegovina, 0, 0
 2020-03-12 00:00:00, Bosnia_and_Herzegovina, 1, 0
 2020-03-06 00:00:00, Bosnia_and_Herzegovina, 2, 0
+2020-03-24 00:00:00, Brazil, 345, 9
 2020-03-23 00:00:00, Brazil, 418, 7
 2020-03-22 00:00:00, Brazil, 224, 7
 2020-03-21 00:00:00, Brazil, 283, 5
@@ -908,6 +932,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Brazil, 0, 0
 2020-01-01 00:00:00, Brazil, 0, 0
 2019-12-31 00:00:00, Brazil, 0, 0
+2020-03-24 00:00:00, Brunei_Darussalam, 3, 0
 2020-03-23 00:00:00, Brunei_Darussalam, 5, 0
 2020-03-22 00:00:00, Brunei_Darussalam, 5, 0
 2020-03-21 00:00:00, Brunei_Darussalam, 5, 0
@@ -921,6 +946,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-13 00:00:00, Brunei_Darussalam, 14, 0
 2020-03-12 00:00:00, Brunei_Darussalam, 10, 0
 2020-03-10 00:00:00, Brunei_Darussalam, 1, 0
+2020-03-24 00:00:00, Bulgaria, 16, 0
 2020-03-23 00:00:00, Bulgaria, 22, 0
 2020-03-22 00:00:00, Bulgaria, 36, 0
 2020-03-21 00:00:00, Bulgaria, 22, 0
@@ -935,6 +961,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-12 00:00:00, Bulgaria, 3, 1
 2020-03-09 00:00:00, Bulgaria, 2, 0
 2020-03-08 00:00:00, Bulgaria, 2, 0
+2020-03-24 00:00:00, Burkina_Faso, 11, 0
 2020-03-23 00:00:00, Burkina_Faso, 0, 0
 2020-03-22 00:00:00, Burkina_Faso, 24, 2
 2020-03-21 00:00:00, Burkina_Faso, 7, 0
@@ -946,6 +973,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-15 00:00:00, Burkina_Faso, 1, 0
 2020-03-12 00:00:00, Burkina_Faso, 0, 0
 2020-03-11 00:00:00, Burkina_Faso, 2, 0
+2020-03-24 00:00:00, Cambodia, 1, 0
 2020-03-23 00:00:00, Cambodia, 35, 0
 2020-03-22 00:00:00, Cambodia, 4, 0
 2020-03-21 00:00:00, Cambodia, 23, 0
@@ -1021,6 +1049,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Cambodia, 0, 0
 2020-01-01 00:00:00, Cambodia, 0, 0
 2019-12-31 00:00:00, Cambodia, 0, 0
+2020-03-24 00:00:00, Cameroon, 29, 0
 2020-03-23 00:00:00, Cameroon, 0, 0
 2020-03-22 00:00:00, Cameroon, 0, 0
 2020-03-21 00:00:00, Cameroon, 13, 0
@@ -1032,6 +1061,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-15 00:00:00, Cameroon, 1, 0
 2020-03-09 00:00:00, Cameroon, 1, 0
 2020-03-07 00:00:00, Cameroon, 1, 0
+2020-03-24 00:00:00, Canada, 216, 6
 2020-03-23 00:00:00, Canada, 199, 5
 2020-03-22 00:00:00, Canada, 260, 1
 2020-03-21 00:00:00, Canada, 125, 2
@@ -1116,13 +1146,16 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Canada, 0, 0
 2020-01-01 00:00:00, Canada, 0, 0
 2019-12-31 00:00:00, Canada, 0, 0
+2020-03-24 00:00:00, Cape_Verde, 0, 0
 2020-03-23 00:00:00, Cape_Verde, 0, 0
 2020-03-22 00:00:00, Cape_Verde, 1, 0
 2020-03-21 00:00:00, Cape_Verde, 2, 0
+2020-03-24 00:00:00, Cayman_Islands, 0, 0
 2020-03-23 00:00:00, Cayman_Islands, 0, 0
 2020-03-22 00:00:00, Cayman_Islands, 0, 0
 2020-03-21 00:00:00, Cayman_Islands, 2, 1
 2020-03-20 00:00:00, Cayman_Islands, 1, 0
+2020-03-24 00:00:00, Central_African_Republic, 0, 0
 2020-03-23 00:00:00, Central_African_Republic, 1, 0
 2020-03-22 00:00:00, Central_African_Republic, 2, 0
 2020-03-21 00:00:00, Central_African_Republic, 0, 0
@@ -1131,10 +1164,12 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-18 00:00:00, Central_African_Republic, 0, 0
 2020-03-17 00:00:00, Central_African_Republic, 0, 0
 2020-03-16 00:00:00, Central_African_Republic, 1, 0
+2020-03-24 00:00:00, Chad, 0, 0
 2020-03-23 00:00:00, Chad, 0, 0
 2020-03-22 00:00:00, Chad, 1, 0
 2020-03-21 00:00:00, Chad, 0, 0
 2020-03-20 00:00:00, Chad, 1, 0
+2020-03-24 00:00:00, Chile, 114, 1
 2020-03-23 00:00:00, Chile, 95, 1
 2020-03-22 00:00:00, Chile, 103, 0
 2020-03-21 00:00:00, Chile, 92, 0
@@ -1154,6 +1189,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-06 00:00:00, Chile, 1, 0
 2020-03-05 00:00:00, Chile, 2, 0
 2020-03-04 00:00:00, Chile, 1, 0
+2020-03-24 00:00:00, China, 99, 7
 2020-03-23 00:00:00, China, 150, 9
 2020-03-22 00:00:00, China, 83, 6
 2020-03-21 00:00:00, China, 79, 7
@@ -1238,6 +1274,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, China, 0, 0
 2020-01-01 00:00:00, China, 0, 0
 2019-12-31 00:00:00, China, 27, 0
+2020-03-24 00:00:00, Colombia, 0, 1
 2020-03-23 00:00:00, Colombia, 25, 1
 2020-03-22 00:00:00, Colombia, 52, 1
 2020-03-21 00:00:00, Colombia, 30, 0
@@ -1251,6 +1288,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-12 00:00:00, Colombia, 6, 0
 2020-03-10 00:00:00, Colombia, 2, 0
 2020-03-07 00:00:00, Colombia, 1, 0
+2020-03-24 00:00:00, Congo, 0, 0
 2020-03-23 00:00:00, Congo, 0, 0
 2020-03-22 00:00:00, Congo, 1, 0
 2020-03-21 00:00:00, Congo, 0, 0
@@ -1259,6 +1297,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-18 00:00:00, Congo, 0, 0
 2020-03-17 00:00:00, Congo, 0, 0
 2020-03-16 00:00:00, Congo, 1, 0
+2020-03-24 00:00:00, Costa_Rica, 24, 0
 2020-03-23 00:00:00, Costa_Rica, 17, 0
 2020-03-22 00:00:00, Costa_Rica, 4, 0
 2020-03-21 00:00:00, Costa_Rica, 26, 1
@@ -1275,6 +1314,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-10 00:00:00, Costa_Rica, 4, 0
 2020-03-09 00:00:00, Costa_Rica, 4, 0
 2020-03-07 00:00:00, Costa_Rica, 1, 0
+2020-03-24 00:00:00, Cote_dIvoire, 0, 0
 2020-03-23 00:00:00, Cote_dIvoire, 8, 0
 2020-03-22 00:00:00, Cote_dIvoire, 3, 0
 2020-03-21 00:00:00, Cote_dIvoire, 5, 0
@@ -1285,10 +1325,11 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Cote_dIvoire, 0, 0
 2020-03-15 00:00:00, Cote_dIvoire, 3, 0
 2020-03-12 00:00:00, Cote_dIvoire, 1, 0
+2020-03-24 00:00:00, Croatia, 71, 0
 2020-03-23 00:00:00, Croatia, 29, 0
 2020-03-22 00:00:00, Croatia, 80, 0
 2020-03-21 00:00:00, Croatia, 22, 0
-2020-03-20 00:00:00, Croatia, 23, 1
+2020-03-20 00:00:00, Croatia, 23, 0
 2020-03-19 00:00:00, Croatia, 12, 0
 2020-03-18 00:00:00, Croatia, 13, 0
 2020-03-17 00:00:00, Croatia, 8, 0
@@ -1366,6 +1407,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Croatia, 0, 0
 2020-01-01 00:00:00, Croatia, 0, 0
 2019-12-31 00:00:00, Croatia, 0, 0
+2020-03-24 00:00:00, Cuba, 5, 0
 2020-03-23 00:00:00, Cuba, 10, 0
 2020-03-22 00:00:00, Cuba, 4, 0
 2020-03-21 00:00:00, Cuba, 5, 0
@@ -1375,6 +1417,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-15 00:00:00, Cuba, 0, 0
 2020-03-14 00:00:00, Cuba, 1, 0
 2020-03-12 00:00:00, Cuba, 3, 0
+2020-03-24 00:00:00, Cyprus, 21, 0
 2020-03-23 00:00:00, Cyprus, 11, 0
 2020-03-22 00:00:00, Cyprus, 17, 0
 2020-03-21 00:00:00, Cyprus, 9, 0
@@ -1387,6 +1430,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-14 00:00:00, Cyprus, 8, 0
 2020-03-12 00:00:00, Cyprus, 4, 0
 2020-03-10 00:00:00, Cyprus, 2, 0
+2020-03-24 00:00:00, Czech_Republic, 71, 0
 2020-03-23 00:00:00, Czech_Republic, 170, 1
 2020-03-22 00:00:00, Czech_Republic, 91, 0
 2020-03-21 00:00:00, Czech_Republic, 210, 0
@@ -1471,7 +1515,8 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Czech_Republic, 0, 0
 2020-01-01 00:00:00, Czech_Republic, 0, 0
 2019-12-31 00:00:00, Czech_Republic, 0, 0
-2020-03-23 00:00:00, Democratic_Republic_of_the_Congo, 7, 1
+2020-03-24 00:00:00, Democratic_Republic_of_the_Congo, 0, 0
+2020-03-23 00:00:00, Democratic_Republic_of_the_Congo, 3, 1
 2020-03-22 00:00:00, Democratic_Republic_of_the_Congo, 9, 1
 2020-03-21 00:00:00, Democratic_Republic_of_the_Congo, 0, 0
 2020-03-20 00:00:00, Democratic_Republic_of_the_Congo, 0, 0
@@ -1482,6 +1527,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-15 00:00:00, Democratic_Republic_of_the_Congo, 0, 0
 2020-03-14 00:00:00, Democratic_Republic_of_the_Congo, 1, 0
 2020-03-11 00:00:00, Democratic_Republic_of_the_Congo, 1, 0
+2020-03-24 00:00:00, Denmark, 65, 11
 2020-03-23 00:00:00, Denmark, 69, 0
 2020-03-22 00:00:00, Denmark, 71, 4
 2020-03-21 00:00:00, Denmark, 104, 3
@@ -1566,12 +1612,15 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Denmark, 0, 0
 2020-01-01 00:00:00, Denmark, 0, 0
 2019-12-31 00:00:00, Denmark, 0, 0
+2020-03-24 00:00:00, Djibouti, 2, 0
 2020-03-23 00:00:00, Djibouti, 0, 0
 2020-03-22 00:00:00, Djibouti, 0, 0
 2020-03-21 00:00:00, Djibouti, 0, 0
 2020-03-20 00:00:00, Djibouti, 0, 0
 2020-03-19 00:00:00, Djibouti, 1, 0
+2020-03-24 00:00:00, Dominica, 0, 0
 2020-03-23 00:00:00, Dominica, 1, 0
+2020-03-24 00:00:00, Dominican_Republic, 43, 0
 2020-03-23 00:00:00, Dominican_Republic, 90, 0
 2020-03-22 00:00:00, Dominican_Republic, 78, 1
 2020-03-21 00:00:00, Dominican_Republic, 13, 2
@@ -1647,6 +1696,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Dominican_Republic, 0, 0
 2020-01-01 00:00:00, Dominican_Republic, 0, 0
 2019-12-31 00:00:00, Dominican_Republic, 0, 0
+2020-03-24 00:00:00, Ecuador, 192, 4
 2020-03-23 00:00:00, Ecuador, 257, 7
 2020-03-22 00:00:00, Ecuador, 106, 0
 2020-03-21 00:00:00, Ecuador, 227, 4
@@ -1726,6 +1776,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Ecuador, 0, 0
 2020-01-01 00:00:00, Ecuador, 0, 0
 2019-12-31 00:00:00, Ecuador, 0, 0
+2020-03-24 00:00:00, Egypt, 33, 4
 2020-03-23 00:00:00, Egypt, 9, 2
 2020-03-22 00:00:00, Egypt, 29, 1
 2020-03-21 00:00:00, Egypt, 46, 1
@@ -1806,11 +1857,13 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Egypt, 0, 0
 2020-01-01 00:00:00, Egypt, 0, 0
 2019-12-31 00:00:00, Egypt, 0, 0
+2020-03-24 00:00:00, El_Salvador, 2, 0
 2020-03-23 00:00:00, El_Salvador, 0, 0
 2020-03-22 00:00:00, El_Salvador, 0, 0
 2020-03-21 00:00:00, El_Salvador, 2, 0
 2020-03-20 00:00:00, El_Salvador, 0, 0
 2020-03-19 00:00:00, El_Salvador, 1, 0
+2020-03-24 00:00:00, Equatorial_Guinea, 3, 0
 2020-03-23 00:00:00, Equatorial_Guinea, 0, 0
 2020-03-22 00:00:00, Equatorial_Guinea, 2, 0
 2020-03-21 00:00:00, Equatorial_Guinea, 0, 0
@@ -1820,8 +1873,10 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Equatorial_Guinea, 0, 0
 2020-03-16 00:00:00, Equatorial_Guinea, 0, 0
 2020-03-15 00:00:00, Equatorial_Guinea, 1, 0
+2020-03-24 00:00:00, Eritrea, 0, 0
 2020-03-23 00:00:00, Eritrea, 0, 0
 2020-03-22 00:00:00, Eritrea, 1, 0
+2020-03-24 00:00:00, Estonia, 26, 0
 2020-03-23 00:00:00, Estonia, 20, 0
 2020-03-22 00:00:00, Estonia, 23, 0
 2020-03-21 00:00:00, Estonia, 16, 0
@@ -1901,6 +1956,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Estonia, 0, 0
 2020-01-01 00:00:00, Estonia, 0, 0
 2019-12-31 00:00:00, Estonia, 0, 0
+2020-03-24 00:00:00, Eswatini, 0, 0
 2020-03-23 00:00:00, Eswatini, 3, 0
 2020-03-22 00:00:00, Eswatini, 0, 0
 2020-03-21 00:00:00, Eswatini, 0, 0
@@ -1910,6 +1966,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Eswatini, 0, 0
 2020-03-16 00:00:00, Eswatini, 0, 0
 2020-03-15 00:00:00, Eswatini, 1, 0
+2020-03-24 00:00:00, Ethiopia, 0, 0
 2020-03-23 00:00:00, Ethiopia, 2, 0
 2020-03-22 00:00:00, Ethiopia, 0, 0
 2020-03-21 00:00:00, Ethiopia, 2, 0
@@ -1920,14 +1977,17 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Ethiopia, 3, 0
 2020-03-15 00:00:00, Ethiopia, 0, 0
 2020-03-14 00:00:00, Ethiopia, 1, 0
+2020-03-24 00:00:00, Faroe_Islands, 3, 0
 2020-03-23 00:00:00, Faroe_Islands, 23, 0
 2020-03-22 00:00:00, Faroe_Islands, 12, 0
 2020-03-21 00:00:00, Faroe_Islands, 8, 0
 2020-03-20 00:00:00, Faroe_Islands, 72, 0
+2020-03-24 00:00:00, Fiji, 1, 0
 2020-03-23 00:00:00, Fiji, 1, 0
 2020-03-22 00:00:00, Fiji, 1, 0
 2020-03-21 00:00:00, Fiji, 0, 0
 2020-03-20 00:00:00, Fiji, 1, 0
+2020-03-24 00:00:00, Finland, 74, 0
 2020-03-23 00:00:00, Finland, 105, 0
 2020-03-22 00:00:00, Finland, 71, 1
 2020-03-21 00:00:00, Finland, 50, 0
@@ -2007,6 +2067,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Finland, 0, 0
 2020-01-01 00:00:00, Finland, 0, 0
 2019-12-31 00:00:00, Finland, 0, 0
+2020-03-24 00:00:00, France, 3838, 186
 2020-03-23 00:00:00, France, 1559, 112
 2020-03-22 00:00:00, France, 1847, 112
 2020-03-21 00:00:00, France, 1617, 78
@@ -2091,11 +2152,13 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, France, 0, 0
 2020-01-01 00:00:00, France, 0, 0
 2019-12-31 00:00:00, France, 0, 0
+2020-03-24 00:00:00, French_Polynesia, 5, 0
 2020-03-23 00:00:00, French_Polynesia, 1, 0
 2020-03-22 00:00:00, French_Polynesia, 2, 0
 2020-03-21 00:00:00, French_Polynesia, 12, 0
 2020-03-20 00:00:00, French_Polynesia, 0, 0
 2020-03-19 00:00:00, French_Polynesia, 3, 0
+2020-03-24 00:00:00, Gabon, 0, 0
 2020-03-23 00:00:00, Gabon, 3, 0
 2020-03-22 00:00:00, Gabon, 0, 0
 2020-03-21 00:00:00, Gabon, 0, 1
@@ -2106,12 +2169,14 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Gabon, 0, 0
 2020-03-15 00:00:00, Gabon, 0, 0
 2020-03-13 00:00:00, Gabon, 1, 0
+2020-03-24 00:00:00, Gambia, 1, 1
 2020-03-23 00:00:00, Gambia, 0, 0
 2020-03-22 00:00:00, Gambia, 0, 0
 2020-03-21 00:00:00, Gambia, 0, 0
 2020-03-20 00:00:00, Gambia, 0, 0
 2020-03-19 00:00:00, Gambia, 0, 0
 2020-03-18 00:00:00, Gambia, 1, 0
+2020-03-24 00:00:00, Georgia, 7, 0
 2020-03-23 00:00:00, Georgia, 5, 0
 2020-03-22 00:00:00, Georgia, 6, 0
 2020-03-21 00:00:00, Georgia, 3, 0
@@ -2193,6 +2258,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Georgia, 0, 0
 2020-01-01 00:00:00, Georgia, 0, 0
 2019-12-31 00:00:00, Georgia, 0, 0
+2020-03-24 00:00:00, Germany, 4438, 32
 2020-03-23 00:00:00, Germany, 3311, 27
 2020-03-22 00:00:00, Germany, 3276, 22
 2020-03-21 00:00:00, Germany, 4049, 2
@@ -2277,6 +2343,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Germany, 0, 0
 2020-01-01 00:00:00, Germany, 0, 0
 2019-12-31 00:00:00, Germany, 0, 0
+2020-03-24 00:00:00, Ghana, 3, 1
 2020-03-23 00:00:00, Ghana, 3, 0
 2020-03-22 00:00:00, Ghana, 5, 1
 2020-03-21 00:00:00, Ghana, 5, 0
@@ -2287,10 +2354,12 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Ghana, 0, 0
 2020-03-15 00:00:00, Ghana, 0, 0
 2020-03-13 00:00:00, Ghana, 2, 0
+2020-03-24 00:00:00, Gibraltar, 0, 0
 2020-03-23 00:00:00, Gibraltar, 5, 0
 2020-03-22 00:00:00, Gibraltar, 0, 0
 2020-03-21 00:00:00, Gibraltar, 0, 0
 2020-03-20 00:00:00, Gibraltar, 10, 0
+2020-03-24 00:00:00, Greece, 71, 2
 2020-03-23 00:00:00, Greece, 94, 2
 2020-03-22 00:00:00, Greece, 35, 5
 2020-03-21 00:00:00, Greece, 31, 3
@@ -2373,16 +2442,20 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Greece, 0, 0
 2020-01-01 00:00:00, Greece, 0, 0
 2019-12-31 00:00:00, Greece, 0, 0
+2020-03-24 00:00:00, Greenland, 2, 0
 2020-03-23 00:00:00, Greenland, 0, 0
 2020-03-22 00:00:00, Greenland, 0, 0
 2020-03-21 00:00:00, Greenland, 0, 0
 2020-03-20 00:00:00, Greenland, 2, 0
+2020-03-24 00:00:00, Grenada, 0, 0
 2020-03-23 00:00:00, Grenada, 1, 0
+2020-03-24 00:00:00, Guam, 2, 0
 2020-03-23 00:00:00, Guam, 12, 0
 2020-03-22 00:00:00, Guam, 1, 1
 2020-03-21 00:00:00, Guam, 2, 0
 2020-03-20 00:00:00, Guam, 9, 0
 2020-03-19 00:00:00, Guam, 3, 0
+2020-03-24 00:00:00, Guatemala, 1, 0
 2020-03-23 00:00:00, Guatemala, 2, 0
 2020-03-22 00:00:00, Guatemala, 4, 0
 2020-03-21 00:00:00, Guatemala, 4, 0
@@ -2392,10 +2465,12 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Guatemala, 5, 0
 2020-03-16 00:00:00, Guatemala, 0, 1
 2020-03-15 00:00:00, Guatemala, 1, 0
+2020-03-24 00:00:00, Guernsey, 3, 0
 2020-03-23 00:00:00, Guernsey, 16, 0
 2020-03-22 00:00:00, Guernsey, 0, 0
 2020-03-21 00:00:00, Guernsey, 0, 0
 2020-03-20 00:00:00, Guernsey, 1, 0
+2020-03-24 00:00:00, Guinea, 0, 0
 2020-03-23 00:00:00, Guinea, 0, 0
 2020-03-22 00:00:00, Guinea, 0, 0
 2020-03-21 00:00:00, Guinea, 1, 0
@@ -2405,6 +2480,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Guinea, 0, 0
 2020-03-15 00:00:00, Guinea, 0, 0
 2020-03-14 00:00:00, Guinea, 1, 0
+2020-03-24 00:00:00, Guyana, 1, 0
 2020-03-23 00:00:00, Guyana, 0, 0
 2020-03-22 00:00:00, Guyana, 0, 0
 2020-03-21 00:00:00, Guyana, 0, 0
@@ -2414,10 +2490,12 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Guyana, 0, 0
 2020-03-16 00:00:00, Guyana, 3, 0
 2020-03-13 00:00:00, Guyana, 1, 1
+2020-03-24 00:00:00, Haiti, 3, 0
 2020-03-23 00:00:00, Haiti, 0, 0
 2020-03-22 00:00:00, Haiti, 0, 0
 2020-03-21 00:00:00, Haiti, 0, 0
 2020-03-20 00:00:00, Haiti, 2, 0
+2020-03-24 00:00:00, Holy_See, 0, 0
 2020-03-23 00:00:00, Holy_See, 0, 0
 2020-03-22 00:00:00, Holy_See, 0, 0
 2020-03-21 00:00:00, Holy_See, 0, 0
@@ -2427,6 +2505,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Holy_See, 0, 0
 2020-03-16 00:00:00, Holy_See, 0, 0
 2020-03-07 00:00:00, Holy_See, 1, 0
+2020-03-24 00:00:00, Honduras, 3, 0
 2020-03-23 00:00:00, Honduras, 1, 0
 2020-03-22 00:00:00, Honduras, 2, 0
 2020-03-21 00:00:00, Honduras, 0, 0
@@ -2437,6 +2516,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Honduras, 3, 0
 2020-03-14 00:00:00, Honduras, 1, 0
 2020-03-12 00:00:00, Honduras, 2, 0
+2020-03-24 00:00:00, Hungary, 20, 1
 2020-03-23 00:00:00, Hungary, 36, 3
 2020-03-22 00:00:00, Hungary, 46, 0
 2020-03-21 00:00:00, Hungary, 0, 3
@@ -2455,6 +2535,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-08 00:00:00, Hungary, 3, 0
 2020-03-07 00:00:00, Hungary, 2, 0
 2020-03-05 00:00:00, Hungary, 2, 0
+2020-03-24 00:00:00, Iceland, 20, 1
 2020-03-23 00:00:00, Iceland, 95, 0
 2020-03-22 00:00:00, Iceland, 64, 0
 2020-03-21 00:00:00, Iceland, 79, 0
@@ -2539,6 +2620,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Iceland, 0, 0
 2020-01-01 00:00:00, Iceland, 0, 0
 2019-12-31 00:00:00, Iceland, 0, 0
+2020-03-24 00:00:00, India, 53, 2
 2020-03-23 00:00:00, India, 119, 3
 2020-03-22 00:00:00, India, 89, 0
 2020-03-21 00:00:00, India, 40, 0
@@ -2622,6 +2704,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, India, 0, 0
 2020-01-01 00:00:00, India, 0, 0
 2019-12-31 00:00:00, India, 0, 0
+2020-03-24 00:00:00, Indonesia, 65, 1
 2020-03-23 00:00:00, Indonesia, 64, 10
 2020-03-22 00:00:00, Indonesia, 141, 13
 2020-03-21 00:00:00, Indonesia, 82, 6
@@ -2699,6 +2782,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Indonesia, 0, 0
 2020-01-01 00:00:00, Indonesia, 0, 0
 2019-12-31 00:00:00, Indonesia, 0, 0
+2020-03-24 00:00:00, Iran, 1411, 127
 2020-03-23 00:00:00, Iran, 1028, 129
 2020-03-22 00:00:00, Iran, 966, 123
 2020-03-21 00:00:00, Iran, 1237, 149
@@ -2783,6 +2867,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Iran, 0, 0
 2020-01-01 00:00:00, Iran, 0, 0
 2019-12-31 00:00:00, Iran, 0, 0
+2020-03-24 00:00:00, Iraq, 33, 3
 2020-03-23 00:00:00, Iraq, 19, 3
 2020-03-22 00:00:00, Iraq, 21, 3
 2020-03-21 00:00:00, Iraq, 16, 2
@@ -2865,6 +2950,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Iraq, 0, 0
 2020-01-01 00:00:00, Iraq, 0, 0
 2019-12-31 00:00:00, Iraq, 0, 0
+2020-03-24 00:00:00, Ireland, 219, 2
 2020-03-23 00:00:00, Ireland, 121, 1
 2020-03-22 00:00:00, Ireland, 102, 0
 2020-03-21 00:00:00, Ireland, 126, 0
@@ -2947,9 +3033,11 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Ireland, 0, 0
 2020-01-01 00:00:00, Ireland, 0, 0
 2019-12-31 00:00:00, Ireland, 0, 0
+2020-03-24 00:00:00, Isle_of_Man, 11, 0
 2020-03-23 00:00:00, Isle_of_Man, 0, 0
 2020-03-22 00:00:00, Isle_of_Man, 1, 0
 2020-03-21 00:00:00, Isle_of_Man, 1, 0
+2020-03-24 00:00:00, Israel, 371, 0
 2020-03-23 00:00:00, Israel, 188, 0
 2020-03-22 00:00:00, Israel, 171, 0
 2020-03-21 00:00:00, Israel, 35, 1
@@ -3031,6 +3119,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Israel, 0, 0
 2020-01-01 00:00:00, Israel, 0, 0
 2019-12-31 00:00:00, Israel, 0, 0
+2020-03-24 00:00:00, Italy, 4789, 601
 2020-03-23 00:00:00, Italy, 5560, 649
 2020-03-22 00:00:00, Italy, 6557, 795
 2020-03-21 00:00:00, Italy, 5986, 625
@@ -3115,6 +3204,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Italy, 0, 0
 2020-01-01 00:00:00, Italy, 0, 0
 2019-12-31 00:00:00, Italy, 0, 0
+2020-03-24 00:00:00, Jamaica, 0, 0
 2020-03-23 00:00:00, Jamaica, 0, 0
 2020-03-22 00:00:00, Jamaica, 0, 0
 2020-03-21 00:00:00, Jamaica, 3, 0
@@ -3126,6 +3216,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-14 00:00:00, Jamaica, 2, 0
 2020-03-13 00:00:00, Jamaica, 4, 0
 2020-03-12 00:00:00, Jamaica, 2, 0
+2020-03-24 00:00:00, Japan, 39, 1
 2020-03-23 00:00:00, Japan, 43, 5
 2020-03-22 00:00:00, Japan, 39, 1
 2020-03-21 00:00:00, Japan, 57, 2
@@ -3210,10 +3301,12 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Japan, 0, 0
 2020-01-01 00:00:00, Japan, 0, 0
 2019-12-31 00:00:00, Japan, 0, 0
+2020-03-24 00:00:00, Jersey, 3, 0
 2020-03-23 00:00:00, Jersey, 3, 0
 2020-03-22 00:00:00, Jersey, 0, 0
 2020-03-21 00:00:00, Jersey, 7, 0
 2020-03-20 00:00:00, Jersey, 5, 0
+2020-03-24 00:00:00, Jordan, 13, 0
 2020-03-23 00:00:00, Jordan, 15, 0
 2020-03-22 00:00:00, Jordan, 15, 0
 2020-03-21 00:00:00, Jordan, 13, 0
@@ -3225,6 +3318,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-15 00:00:00, Jordan, 0, 0
 2020-03-08 00:00:00, Jordan, 0, 0
 2020-03-03 00:00:00, Jordan, 1, 0
+2020-03-24 00:00:00, Kazakhstan, 2, 0
 2020-03-23 00:00:00, Kazakhstan, 4, 0
 2020-03-22 00:00:00, Kazakhstan, 3, 0
 2020-03-21 00:00:00, Kazakhstan, 4, 0
@@ -3234,6 +3328,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Kazakhstan, 2, 0
 2020-03-16 00:00:00, Kazakhstan, 3, 0
 2020-03-15 00:00:00, Kazakhstan, 6, 0
+2020-03-24 00:00:00, Kenya, 1, 0
 2020-03-23 00:00:00, Kenya, 8, 0
 2020-03-22 00:00:00, Kenya, 0, 0
 2020-03-21 00:00:00, Kenya, 0, 0
@@ -3244,6 +3339,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Kenya, 2, 0
 2020-03-15 00:00:00, Kenya, 0, 0
 2020-03-14 00:00:00, Kenya, 1, 0
+2020-03-24 00:00:00, Kosovo, 30, 0
 2020-03-23 00:00:00, Kosovo, 7, 1
 2020-03-22 00:00:00, Kosovo, 0, 0
 2020-03-21 00:00:00, Kosovo, 3, 0
@@ -3252,6 +3348,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-18 00:00:00, Kosovo, 17, 0
 2020-03-17 00:00:00, Kosovo, 0, 0
 2020-03-16 00:00:00, Kosovo, 2, 0
+2020-03-24 00:00:00, Kuwait, 1, 0
 2020-03-23 00:00:00, Kuwait, 12, 0
 2020-03-22 00:00:00, Kuwait, 17, 0
 2020-03-21 00:00:00, Kuwait, 11, 0
@@ -3333,11 +3430,13 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Kuwait, 0, 0
 2020-01-01 00:00:00, Kuwait, 0, 0
 2019-12-31 00:00:00, Kuwait, 0, 0
+2020-03-24 00:00:00, Kyrgyzstan, 2, 0
 2020-03-23 00:00:00, Kyrgyzstan, 0, 0
 2020-03-22 00:00:00, Kyrgyzstan, 8, 0
 2020-03-21 00:00:00, Kyrgyzstan, 0, 0
 2020-03-20 00:00:00, Kyrgyzstan, 3, 0
 2020-03-19 00:00:00, Kyrgyzstan, 3, 0
+2020-03-24 00:00:00, Latvia, 41, 0
 2020-03-23 00:00:00, Latvia, 15, 0
 2020-03-22 00:00:00, Latvia, 13, 0
 2020-03-21 00:00:00, Latvia, 25, 0
@@ -3355,6 +3454,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-09 00:00:00, Latvia, 1, 0
 2020-03-08 00:00:00, Latvia, 1, 0
 2020-03-03 00:00:00, Latvia, 1, 0
+2020-03-24 00:00:00, Lebanon, 19, 0
 2020-03-23 00:00:00, Lebanon, 18, 0
 2020-03-22 00:00:00, Lebanon, 67, 0
 2020-03-21 00:00:00, Lebanon, 14, 0
@@ -3435,6 +3535,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Lebanon, 0, 0
 2020-01-01 00:00:00, Lebanon, 0, 0
 2019-12-31 00:00:00, Lebanon, 0, 0
+2020-03-24 00:00:00, Liberia, 0, 0
 2020-03-23 00:00:00, Liberia, 0, 0
 2020-03-22 00:00:00, Liberia, 1, 0
 2020-03-21 00:00:00, Liberia, 0, 0
@@ -3442,6 +3543,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-19 00:00:00, Liberia, 0, 0
 2020-03-18 00:00:00, Liberia, 1, 0
 2020-03-17 00:00:00, Liberia, 1, 0
+2020-03-24 00:00:00, Liechtenstein, 0, 0
 2020-03-23 00:00:00, Liechtenstein, 10, 0
 2020-03-22 00:00:00, Liechtenstein, 2, 0
 2020-03-21 00:00:00, Liechtenstein, 9, 0
@@ -3455,6 +3557,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-13 00:00:00, Liechtenstein, 1, 0
 2020-03-12 00:00:00, Liechtenstein, 2, 0
 2020-03-05 00:00:00, Liechtenstein, 1, 0
+2020-03-24 00:00:00, Lithuania, 36, 0
 2020-03-23 00:00:00, Lithuania, 38, 0
 2020-03-22 00:00:00, Lithuania, 36, 0
 2020-03-21 00:00:00, Lithuania, 21, 1
@@ -3530,6 +3633,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Lithuania, 0, 0
 2020-01-01 00:00:00, Lithuania, 0, 0
 2019-12-31 00:00:00, Lithuania, 0, 0
+2020-03-24 00:00:00, Luxembourg, 77, 0
 2020-03-23 00:00:00, Luxembourg, 128, 0
 2020-03-22 00:00:00, Luxembourg, 186, 3
 2020-03-21 00:00:00, Luxembourg, 139, 1
@@ -3607,9 +3711,11 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Luxembourg, 0, 0
 2020-01-01 00:00:00, Luxembourg, 0, 0
 2019-12-31 00:00:00, Luxembourg, 0, 0
+2020-03-24 00:00:00, Madagascar, 14, 0
 2020-03-23 00:00:00, Madagascar, 0, 0
 2020-03-22 00:00:00, Madagascar, 0, 0
 2020-03-21 00:00:00, Madagascar, 3, 0
+2020-03-24 00:00:00, Malaysia, 212, 4
 2020-03-23 00:00:00, Malaysia, 123, 6
 2020-03-22 00:00:00, Malaysia, 153, 2
 2020-03-21 00:00:00, Malaysia, 130, 0
@@ -3693,6 +3799,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Malaysia, 0, 0
 2020-01-01 00:00:00, Malaysia, 0, 0
 2019-12-31 00:00:00, Malaysia, 0, 0
+2020-03-24 00:00:00, Maldives, 0, 0
 2020-03-23 00:00:00, Maldives, 0, 0
 2020-03-22 00:00:00, Maldives, 0, 0
 2020-03-21 00:00:00, Maldives, 0, 0
@@ -3707,6 +3814,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-11 00:00:00, Maldives, 2, 0
 2020-03-09 00:00:00, Maldives, 2, 0
 2020-03-08 00:00:00, Maldives, 2, 0
+2020-03-24 00:00:00, Malta, 17, 0
 2020-03-23 00:00:00, Malta, 17, 0
 2020-03-22 00:00:00, Malta, 9, 0
 2020-03-21 00:00:00, Malta, 11, 0
@@ -3721,6 +3829,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-12 00:00:00, Malta, 2, 0
 2020-03-10 00:00:00, Malta, 1, 0
 2020-03-08 00:00:00, Malta, 3, 0
+2020-03-24 00:00:00, Mauritania, 0, 0
 2020-03-23 00:00:00, Mauritania, 0, 0
 2020-03-22 00:00:00, Mauritania, 0, 0
 2020-03-21 00:00:00, Mauritania, 0, 0
@@ -3730,10 +3839,12 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Mauritania, 0, 0
 2020-03-16 00:00:00, Mauritania, 0, 0
 2020-03-15 00:00:00, Mauritania, 1, 0
+2020-03-24 00:00:00, Mauritius, 8, 0
 2020-03-23 00:00:00, Mauritius, 14, 1
 2020-03-22 00:00:00, Mauritius, 2, 1
 2020-03-21 00:00:00, Mauritius, 9, 0
 2020-03-20 00:00:00, Mauritius, 3, 0
+2020-03-24 00:00:00, Mexico, 51, 2
 2020-03-23 00:00:00, Mexico, 65, 0
 2020-03-22 00:00:00, Mexico, 48, 0
 2020-03-21 00:00:00, Mexico, 39, 2
@@ -3810,6 +3921,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Mexico, 0, 0
 2020-01-01 00:00:00, Mexico, 0, 0
 2019-12-31 00:00:00, Mexico, 0, 0
+2020-03-24 00:00:00, Moldova, 15, 0
 2020-03-23 00:00:00, Moldova, 14, 0
 2020-03-22 00:00:00, Moldova, 14, 0
 2020-03-21 00:00:00, Moldova, 17, 0
@@ -3824,6 +3936,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-12 00:00:00, Moldova, 1, 0
 2020-03-11 00:00:00, Moldova, 2, 0
 2020-03-08 00:00:00, Moldova, 1, 0
+2020-03-24 00:00:00, Monaco, 0, 0
 2020-03-23 00:00:00, Monaco, 5, 0
 2020-03-22 00:00:00, Monaco, 6, 0
 2020-03-21 00:00:00, Monaco, 1, 0
@@ -3896,6 +4009,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Monaco, 0, 0
 2020-01-01 00:00:00, Monaco, 0, 0
 2019-12-31 00:00:00, Monaco, 0, 0
+2020-03-24 00:00:00, Mongolia, 0, 0
 2020-03-23 00:00:00, Mongolia, 0, 0
 2020-03-22 00:00:00, Mongolia, 4, 0
 2020-03-21 00:00:00, Mongolia, 1, 0
@@ -3904,15 +4018,18 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-18 00:00:00, Mongolia, 3, 0
 2020-03-15 00:00:00, Mongolia, 0, 0
 2020-03-10 00:00:00, Mongolia, 1, 0
+2020-03-24 00:00:00, Montenegro, 6, 0
 2020-03-23 00:00:00, Montenegro, 7, 0
 2020-03-22 00:00:00, Montenegro, 0, 0
 2020-03-21 00:00:00, Montenegro, 1, 0
 2020-03-20 00:00:00, Montenegro, 5, 0
 2020-03-19 00:00:00, Montenegro, 6, 0
 2020-03-18 00:00:00, Montenegro, 2, 0
+2020-03-24 00:00:00, Montserrat, 0, 0
 2020-03-23 00:00:00, Montserrat, 0, 0
 2020-03-22 00:00:00, Montserrat, 0, 0
 2020-03-21 00:00:00, Montserrat, 1, 0
+2020-03-24 00:00:00, Morocco, 19, 0
 2020-03-23 00:00:00, Morocco, 19, 1
 2020-03-22 00:00:00, Morocco, 10, 0
 2020-03-21 00:00:00, Morocco, 23, 1
@@ -3927,8 +4044,11 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-12 00:00:00, Morocco, 3, 1
 2020-03-06 00:00:00, Morocco, 1, 0
 2020-03-03 00:00:00, Morocco, 1, 0
+2020-03-24 00:00:00, Mozambique, 0, 0
 2020-03-23 00:00:00, Mozambique, 1, 0
+2020-03-24 00:00:00, Myanmar, 2, 0
 2020-03-17 00:00:00, Myanmar, 0, 0
+2020-03-24 00:00:00, Namibia, 0, 0
 2020-03-23 00:00:00, Namibia, 0, 0
 2020-03-22 00:00:00, Namibia, 0, 0
 2020-03-21 00:00:00, Namibia, 1, 0
@@ -3938,6 +4058,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Namibia, 0, 0
 2020-03-16 00:00:00, Namibia, 0, 0
 2020-03-15 00:00:00, Namibia, 2, 0
+2020-03-24 00:00:00, Nepal, 1, 0
 2020-03-23 00:00:00, Nepal, 0, 0
 2020-03-22 00:00:00, Nepal, 0, 0
 2020-03-21 00:00:00, Nepal, 0, 0
@@ -4009,6 +4130,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Nepal, 0, 0
 2020-01-01 00:00:00, Nepal, 0, 0
 2019-12-31 00:00:00, Nepal, 0, 0
+2020-03-24 00:00:00, Netherlands, 545, 34
 2020-03-23 00:00:00, Netherlands, 573, 43
 2020-03-22 00:00:00, Netherlands, 637, 30
 2020-03-21 00:00:00, Netherlands, 534, 30
@@ -4093,13 +4215,16 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Netherlands, 0, 0
 2020-01-01 00:00:00, Netherlands, 0, 0
 2019-12-31 00:00:00, Netherlands, 0, 0
+2020-03-24 00:00:00, Netherlands_Antilles, 4, 0
 2020-03-23 00:00:00, Netherlands_Antilles, 0, 0
 2020-03-22 00:00:00, Netherlands_Antilles, 0, 0
 2020-03-21 00:00:00, Netherlands_Antilles, 4, 0
 2020-03-20 00:00:00, Netherlands_Antilles, 9, 0
+2020-03-24 00:00:00, New_Caledonia, 2, 0
 2020-03-23 00:00:00, New_Caledonia, 1, 0
 2020-03-22 00:00:00, New_Caledonia, 2, 0
 2020-03-21 00:00:00, New_Caledonia, 2, 0
+2020-03-24 00:00:00, New_Zealand, 40, 0
 2020-03-23 00:00:00, New_Zealand, 36, 0
 2020-03-22 00:00:00, New_Zealand, 13, 0
 2020-03-21 00:00:00, New_Zealand, 14, 0
@@ -4175,14 +4300,17 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, New_Zealand, 0, 0
 2020-01-01 00:00:00, New_Zealand, 0, 0
 2019-12-31 00:00:00, New_Zealand, 0, 0
+2020-03-24 00:00:00, Nicaragua, 0, 0
 2020-03-23 00:00:00, Nicaragua, 1, 0
 2020-03-22 00:00:00, Nicaragua, 0, 0
 2020-03-21 00:00:00, Nicaragua, 0, 0
 2020-03-20 00:00:00, Nicaragua, 0, 0
 2020-03-19 00:00:00, Nicaragua, 1, 0
+2020-03-24 00:00:00, Niger, 1, 0
 2020-03-23 00:00:00, Niger, 0, 0
 2020-03-22 00:00:00, Niger, 0, 0
 2020-03-21 00:00:00, Niger, 1, 0
+2020-03-24 00:00:00, Nigeria, 10, 1
 2020-03-23 00:00:00, Nigeria, 8, 0
 2020-03-22 00:00:00, Nigeria, 10, 0
 2020-03-21 00:00:00, Nigeria, 4, 0
@@ -4256,6 +4384,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Nigeria, 0, 0
 2020-01-01 00:00:00, Nigeria, 0, 0
 2019-12-31 00:00:00, Nigeria, 0, 0
+2020-03-24 00:00:00, North_Macedonia, 22, 1
 2020-03-23 00:00:00, North_Macedonia, 29, 1
 2020-03-22 00:00:00, North_Macedonia, 15, 0
 2020-03-21 00:00:00, North_Macedonia, 22, 0
@@ -4331,6 +4460,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, North_Macedonia, 0, 0
 2020-01-01 00:00:00, North_Macedonia, 0, 0
 2019-12-31 00:00:00, North_Macedonia, 0, 0
+2020-03-24 00:00:00, Norway, 239, 1
 2020-03-23 00:00:00, Norway, 206, 0
 2020-03-22 00:00:00, Norway, 184, 0
 2020-03-21 00:00:00, Norway, 190, 1
@@ -4415,6 +4545,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Norway, 0, 0
 2020-01-01 00:00:00, Norway, 0, 0
 2019-12-31 00:00:00, Norway, 0, 0
+2020-03-24 00:00:00, Oman, 11, 0
 2020-03-23 00:00:00, Oman, 3, 0
 2020-03-22 00:00:00, Oman, 4, 0
 2020-03-21 00:00:00, Oman, 9, 0
@@ -4493,6 +4624,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Oman, 0, 0
 2020-01-01 00:00:00, Oman, 0, 0
 2019-12-31 00:00:00, Oman, 0, 0
+2020-03-24 00:00:00, Pakistan, 103, 1
 2020-03-23 00:00:00, Pakistan, 138, 2
 2020-03-22 00:00:00, Pakistan, 151, 0
 2020-03-21 00:00:00, Pakistan, 17, 1
@@ -4572,6 +4704,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Pakistan, 0, 0
 2020-01-01 00:00:00, Pakistan, 0, 0
 2019-12-31 00:00:00, Pakistan, 0, 0
+2020-03-24 00:00:00, Palestine, 0, 0
 2020-03-23 00:00:00, Palestine, 7, 0
 2020-03-22 00:00:00, Palestine, 4, 0
 2020-03-21 00:00:00, Palestine, 1, 0
@@ -4588,6 +4721,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-08 00:00:00, Palestine, 3, 0
 2020-03-07 00:00:00, Palestine, 9, 0
 2020-03-06 00:00:00, Palestine, 7, 0
+2020-03-24 00:00:00, Panama, 32, 3
 2020-03-23 00:00:00, Panama, 68, 0
 2020-03-22 00:00:00, Panama, 45, 2
 2020-03-21 00:00:00, Panama, 63, 0
@@ -4602,9 +4736,11 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-12 00:00:00, Panama, 7, 0
 2020-03-11 00:00:00, Panama, 6, 1
 2020-03-10 00:00:00, Panama, 1, 0
+2020-03-24 00:00:00, Papua_New_Guinea, 0, 0
 2020-03-23 00:00:00, Papua_New_Guinea, 0, 0
 2020-03-22 00:00:00, Papua_New_Guinea, 0, 0
 2020-03-21 00:00:00, Papua_New_Guinea, 1, 0
+2020-03-24 00:00:00, Paraguay, 5, 0
 2020-03-23 00:00:00, Paraguay, 0, 0
 2020-03-22 00:00:00, Paraguay, 4, 0
 2020-03-21 00:00:00, Paraguay, 5, 1
@@ -4617,6 +4753,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-13 00:00:00, Paraguay, 1, 0
 2020-03-11 00:00:00, Paraguay, 4, 0
 2020-03-08 00:00:00, Paraguay, 1, 0
+2020-03-24 00:00:00, Peru, 32, 0
 2020-03-23 00:00:00, Peru, 45, 0
 2020-03-22 00:00:00, Peru, 55, 2
 2020-03-21 00:00:00, Peru, 29, 1
@@ -4633,6 +4770,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-10 00:00:00, Peru, 2, 0
 2020-03-09 00:00:00, Peru, 6, 0
 2020-03-07 00:00:00, Peru, 1, 0
+2020-03-24 00:00:00, Philippines, 82, 8
 2020-03-23 00:00:00, Philippines, 0, 0
 2020-03-22 00:00:00, Philippines, 150, 7
 2020-03-21 00:00:00, Philippines, 0, 0
@@ -4713,6 +4851,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Philippines, 0, 0
 2020-01-01 00:00:00, Philippines, 0, 0
 2019-12-31 00:00:00, Philippines, 0, 0
+2020-03-24 00:00:00, Poland, 115, 1
 2020-03-23 00:00:00, Poland, 98, 2
 2020-03-22 00:00:00, Poland, 111, 0
 2020-03-21 00:00:00, Poland, 70, 0
@@ -4731,6 +4870,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-08 00:00:00, Poland, 1, 0
 2020-03-07 00:00:00, Poland, 4, 0
 2020-03-04 00:00:00, Poland, 1, 0
+2020-03-24 00:00:00, Portugal, 460, 9
 2020-03-23 00:00:00, Portugal, 320, 2
 2020-03-22 00:00:00, Portugal, 260, 6
 2020-03-21 00:00:00, Portugal, 235, 3
@@ -4752,6 +4892,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-05 00:00:00, Portugal, 1, 0
 2020-03-04 00:00:00, Portugal, 2, 0
 2020-03-03 00:00:00, Portugal, 2, 0
+2020-03-24 00:00:00, Qatar, 7, 0
 2020-03-23 00:00:00, Qatar, 13, 0
 2020-03-22 00:00:00, Qatar, 11, 0
 2020-03-21 00:00:00, Qatar, 10, 0
@@ -4832,6 +4973,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Qatar, 0, 0
 2020-01-01 00:00:00, Qatar, 0, 0
 2019-12-31 00:00:00, Qatar, 0, 0
+2020-03-24 00:00:00, Romania, 143, 5
 2020-03-23 00:00:00, Romania, 66, 2
 2020-03-22 00:00:00, Romania, 59, 0
 2020-03-21 00:00:00, Romania, 31, 0
@@ -4914,6 +5056,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Romania, 0, 0
 2020-01-01 00:00:00, Romania, 0, 0
 2019-12-31 00:00:00, Romania, 0, 0
+2020-03-24 00:00:00, Russia, 0, 0
 2020-03-23 00:00:00, Russia, 132, 0
 2020-03-22 00:00:00, Russia, 53, 0
 2020-03-21 00:00:00, Russia, 54, 0
@@ -4993,6 +5136,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Russia, 0, 0
 2020-01-01 00:00:00, Russia, 0, 0
 2019-12-31 00:00:00, Russia, 0, 0
+2020-03-24 00:00:00, Rwanda, 17, 0
 2020-03-23 00:00:00, Rwanda, 2, 0
 2020-03-22 00:00:00, Rwanda, 0, 0
 2020-03-21 00:00:00, Rwanda, 6, 0
@@ -5002,6 +5146,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Rwanda, 0, 0
 2020-03-16 00:00:00, Rwanda, 4, 0
 2020-03-15 00:00:00, Rwanda, 1, 0
+2020-03-24 00:00:00, Saint_Lucia, 0, 0
 2020-03-23 00:00:00, Saint_Lucia, 0, 0
 2020-03-22 00:00:00, Saint_Lucia, 0, 0
 2020-03-21 00:00:00, Saint_Lucia, 0, 0
@@ -5012,6 +5157,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Saint_Lucia, 0, 0
 2020-03-15 00:00:00, Saint_Lucia, 2, 0
 2020-03-13 00:00:00, Saint_Vincent_and_the_Grenadines, 1, 0
+2020-03-24 00:00:00, San_Marino, 36, 0
 2020-03-23 00:00:00, San_Marino, 0, 0
 2020-03-22 00:00:00, San_Marino, 0, 6
 2020-03-21 00:00:00, San_Marino, 25, 0
@@ -5095,6 +5241,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, San_Marino, 0, 0
 2020-01-01 00:00:00, San_Marino, 0, 0
 2019-12-31 00:00:00, San_Marino, 0, 0
+2020-03-24 00:00:00, Saudi_Arabia, 51, 0
 2020-03-23 00:00:00, Saudi_Arabia, 119, 0
 2020-03-22 00:00:00, Saudi_Arabia, 118, 0
 2020-03-21 00:00:00, Saudi_Arabia, 36, 0
@@ -5113,6 +5260,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-08 00:00:00, Saudi_Arabia, 2, 0
 2020-03-06 00:00:00, Saudi_Arabia, 4, 0
 2020-03-03 00:00:00, Saudi_Arabia, 1, 0
+2020-03-24 00:00:00, Senegal, 12, 0
 2020-03-23 00:00:00, Senegal, 11, 0
 2020-03-22 00:00:00, Senegal, 9, 0
 2020-03-21 00:00:00, Senegal, 11, 0
@@ -5127,6 +5275,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-06 00:00:00, Senegal, 1, 0
 2020-03-05 00:00:00, Senegal, 2, 0
 2020-03-03 00:00:00, Senegal, 1, 0
+2020-03-24 00:00:00, Serbia, 34, 0
 2020-03-23 00:00:00, Serbia, 39, 0
 2020-03-22 00:00:00, Serbia, 14, 0
 2020-03-21 00:00:00, Serbia, 9, 1
@@ -5141,6 +5290,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-12 00:00:00, Serbia, 13, 0
 2020-03-11 00:00:00, Serbia, 4, 0
 2020-03-07 00:00:00, Serbia, 1, 0
+2020-03-24 00:00:00, Seychelles, 0, 0
 2020-03-23 00:00:00, Seychelles, 0, 0
 2020-03-22 00:00:00, Seychelles, 0, 0
 2020-03-21 00:00:00, Seychelles, 1, 0
@@ -5150,6 +5300,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Seychelles, 1, 0
 2020-03-16 00:00:00, Seychelles, 1, 0
 2020-03-15 00:00:00, Seychelles, 2, 0
+2020-03-24 00:00:00, Singapore, 54, 0
 2020-03-23 00:00:00, Singapore, 23, 0
 2020-03-22 00:00:00, Singapore, 47, 2
 2020-03-21 00:00:00, Singapore, 40, 0
@@ -5234,6 +5385,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Singapore, 0, 0
 2020-01-01 00:00:00, Singapore, 0, 0
 2019-12-31 00:00:00, Singapore, 0, 0
+2020-03-24 00:00:00, Slovakia, 6, 0
 2020-03-23 00:00:00, Slovakia, 7, 0
 2020-03-22 00:00:00, Slovakia, 41, 0
 2020-03-21 00:00:00, Slovakia, 14, 0
@@ -5250,6 +5402,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-09 00:00:00, Slovakia, 2, 0
 2020-03-08 00:00:00, Slovakia, 2, 0
 2020-03-07 00:00:00, Slovakia, 1, 0
+2020-03-24 00:00:00, Slovenia, 28, 0
 2020-03-23 00:00:00, Slovenia, 31, 0
 2020-03-22 00:00:00, Slovenia, 42, 0
 2020-03-21 00:00:00, Slovenia, 22, 0
@@ -5268,6 +5421,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-07 00:00:00, Slovenia, 3, 0
 2020-03-06 00:00:00, Slovenia, 5, 0
 2020-03-05 00:00:00, Slovenia, 1, 0
+2020-03-24 00:00:00, Somalia, 0, 0
 2020-03-23 00:00:00, Somalia, 0, 0
 2020-03-22 00:00:00, Somalia, 0, 0
 2020-03-21 00:00:00, Somalia, 0, 0
@@ -5275,6 +5429,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-19 00:00:00, Somalia, 0, 0
 2020-03-18 00:00:00, Somalia, 0, 0
 2020-03-17 00:00:00, Somalia, 1, 0
+2020-03-24 00:00:00, South_Africa, 128, 0
 2020-03-23 00:00:00, South_Africa, 34, 0
 2020-03-22 00:00:00, South_Africa, 35, 0
 2020-03-21 00:00:00, South_Africa, 55, 0
@@ -5291,6 +5446,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-09 00:00:00, South_Africa, 1, 0
 2020-03-08 00:00:00, South_Africa, 1, 0
 2020-03-06 00:00:00, South_Africa, 1, 0
+2020-03-24 00:00:00, South_Korea, 76, 7
 2020-03-23 00:00:00, South_Korea, 64, 9
 2020-03-22 00:00:00, South_Korea, 98, 1
 2020-03-21 00:00:00, South_Korea, 147, 3
@@ -5375,6 +5531,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, South_Korea, 0, 0
 2020-01-01 00:00:00, South_Korea, 0, 0
 2019-12-31 00:00:00, South_Korea, 0, 0
+2020-03-24 00:00:00, Spain, 4517, 462
 2020-03-23 00:00:00, Spain, 3646, 394
 2020-03-22 00:00:00, Spain, 4946, 324
 2020-03-21 00:00:00, Spain, 2833, 235
@@ -5459,6 +5616,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Spain, 0, 0
 2020-01-01 00:00:00, Spain, 0, 0
 2019-12-31 00:00:00, Spain, 0, 0
+2020-03-24 00:00:00, Sri_Lanka, 10, 0
 2020-03-23 00:00:00, Sri_Lanka, 9, 0
 2020-03-22 00:00:00, Sri_Lanka, 12, 0
 2020-03-21 00:00:00, Sri_Lanka, 13, 0
@@ -5534,6 +5692,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Sri_Lanka, 0, 0
 2020-01-01 00:00:00, Sri_Lanka, 0, 0
 2019-12-31 00:00:00, Sri_Lanka, 0, 0
+2020-03-24 00:00:00, Sudan, 0, 0
 2020-03-23 00:00:00, Sudan, 0, 0
 2020-03-22 00:00:00, Sudan, 0, 0
 2020-03-21 00:00:00, Sudan, 0, 0
@@ -5544,10 +5703,12 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Sudan, 0, 0
 2020-03-15 00:00:00, Sudan, 0, 1
 2020-03-14 00:00:00, Sudan, 1, 0
+2020-03-24 00:00:00, Suriname, 1, 0
 2020-03-23 00:00:00, Suriname, 0, 0
 2020-03-22 00:00:00, Suriname, 4, 0
 2020-03-21 00:00:00, Suriname, 0, 0
 2020-03-15 00:00:00, Suriname, 1, 0
+2020-03-24 00:00:00, Sweden, 110, 4
 2020-03-23 00:00:00, Sweden, 160, 1
 2020-03-22 00:00:00, Sweden, 123, 4
 2020-03-21 00:00:00, Sweden, 200, 6
@@ -5632,6 +5793,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Sweden, 0, 0
 2020-01-01 00:00:00, Sweden, 0, 0
 2019-12-31 00:00:00, Sweden, 0, 0
+2020-03-24 00:00:00, Switzerland, 1044, 6
 2020-03-23 00:00:00, Switzerland, 894, 4
 2020-03-22 00:00:00, Switzerland, 1237, 13
 2020-03-21 00:00:00, Switzerland, 952, 10
@@ -5716,7 +5878,9 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Switzerland, 0, 0
 2020-01-01 00:00:00, Switzerland, 0, 0
 2019-12-31 00:00:00, Switzerland, 0, 0
+2020-03-24 00:00:00, Syria, 0, 0
 2020-03-23 00:00:00, Syria, 1, 0
+2020-03-24 00:00:00, Taiwan, 30, 0
 2020-03-23 00:00:00, Taiwan, 12, 0
 2020-03-22 00:00:00, Taiwan, 18, 0
 2020-03-21 00:00:00, Taiwan, 27, 1
@@ -5799,6 +5963,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Taiwan, 0, 0
 2020-01-01 00:00:00, Taiwan, 0, 0
 2019-12-31 00:00:00, Taiwan, 0, 0
+2020-03-24 00:00:00, Thailand, 106, 3
 2020-03-23 00:00:00, Thailand, 122, 0
 2020-03-22 00:00:00, Thailand, 233, 0
 2020-03-21 00:00:00, Thailand, 154, 0
@@ -5876,8 +6041,10 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Thailand, 0, 0
 2020-01-01 00:00:00, Thailand, 0, 0
 2019-12-31 00:00:00, Thailand, 0, 0
+2020-03-24 00:00:00, Timor_Leste, 0, 0
 2020-03-23 00:00:00, Timor_Leste, 0, 0
 2020-03-22 00:00:00, Timor_Leste, 1, 0
+2020-03-24 00:00:00, Togo, 3, 0
 2020-03-23 00:00:00, Togo, 0, 0
 2020-03-22 00:00:00, Togo, 6, 0
 2020-03-21 00:00:00, Togo, 8, 0
@@ -5888,6 +6055,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Togo, 0, 0
 2020-03-15 00:00:00, Togo, 0, 0
 2020-03-07 00:00:00, Togo, 1, 0
+2020-03-24 00:00:00, Trinidad_and_Tobago, 1, 0
 2020-03-23 00:00:00, Trinidad_and_Tobago, 1, 0
 2020-03-22 00:00:00, Trinidad_and_Tobago, 40, 0
 2020-03-21 00:00:00, Trinidad_and_Tobago, 0, 0
@@ -5899,6 +6067,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-15 00:00:00, Trinidad_and_Tobago, 0, 0
 2020-03-14 00:00:00, Trinidad_and_Tobago, 1, 0
 2020-03-13 00:00:00, Trinidad_and_Tobago, 1, 0
+2020-03-24 00:00:00, Tunisia, 14, 0
 2020-03-23 00:00:00, Tunisia, 15, 2
 2020-03-22 00:00:00, Tunisia, 6, 0
 2020-03-21 00:00:00, Tunisia, 15, 1
@@ -5914,6 +6083,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-11 00:00:00, Tunisia, 3, 0
 2020-03-10 00:00:00, Tunisia, 1, 0
 2020-03-03 00:00:00, Tunisia, 1, 0
+2020-03-24 00:00:00, Turkey, 293, 7
 2020-03-23 00:00:00, Turkey, 289, 9
 2020-03-22 00:00:00, Turkey, 277, 12
 2020-03-21 00:00:00, Turkey, 311, 5
@@ -5924,8 +6094,10 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Turkey, 16, 0
 2020-03-13 00:00:00, Turkey, 1, 0
 2020-03-12 00:00:00, Turkey, 1, 0
+2020-03-24 00:00:00, Uganda, 8, 0
 2020-03-23 00:00:00, Uganda, 0, 0
 2020-03-22 00:00:00, Uganda, 1, 0
+2020-03-24 00:00:00, Ukraine, 26, 0
 2020-03-23 00:00:00, Ukraine, 6, 0
 2020-03-22 00:00:00, Ukraine, 15, 0
 2020-03-21 00:00:00, Ukraine, 0, 1
@@ -5936,6 +6108,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-16 00:00:00, Ukraine, 0, 0
 2020-03-13 00:00:00, Ukraine, 2, 0
 2020-03-04 00:00:00, Ukraine, 1, 0
+2020-03-24 00:00:00, United_Arab_Emirates, 45, 0
 2020-03-23 00:00:00, United_Arab_Emirates, 0, 0
 2020-03-22 00:00:00, United_Arab_Emirates, 13, 2
 2020-03-21 00:00:00, United_Arab_Emirates, 0, 0
@@ -6014,6 +6187,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, United_Arab_Emirates, 0, 0
 2020-01-01 00:00:00, United_Arab_Emirates, 0, 0
 2019-12-31 00:00:00, United_Arab_Emirates, 0, 0
+2020-03-24 00:00:00, United_Kingdom, 967, 54
 2020-03-23 00:00:00, United_Kingdom, 665, 48
 2020-03-22 00:00:00, United_Kingdom, 1035, 56
 2020-03-21 00:00:00, United_Kingdom, 706, 33
@@ -6098,6 +6272,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, United_Kingdom, 0, 0
 2020-01-01 00:00:00, United_Kingdom, 0, 0
 2019-12-31 00:00:00, United_Kingdom, 0, 0
+2020-03-24 00:00:00, United_Republic_of_Tanzania, 0, 0
 2020-03-23 00:00:00, United_Republic_of_Tanzania, 6, 0
 2020-03-22 00:00:00, United_Republic_of_Tanzania, 3, 0
 2020-03-21 00:00:00, United_Republic_of_Tanzania, 0, 0
@@ -6105,6 +6280,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-19 00:00:00, United_Republic_of_Tanzania, 2, 0
 2020-03-18 00:00:00, United_Republic_of_Tanzania, 0, 0
 2020-03-17 00:00:00, United_Republic_of_Tanzania, 1, 0
+2020-03-24 00:00:00, United_States_of_America, 11236, 119
 2020-03-23 00:00:00, United_States_of_America, 8459, 131
 2020-03-22 00:00:00, United_States_of_America, 7123, 80
 2020-03-21 00:00:00, United_States_of_America, 5374, 110
@@ -6189,6 +6365,8 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, United_States_of_America, 0, 0
 2020-01-01 00:00:00, United_States_of_America, 0, 0
 2019-12-31 00:00:00, United_States_of_America, 0, 0
+2020-03-24 00:00:00, United_States_Virgin_Islands, 17, 0
+2020-03-24 00:00:00, Uruguay, 4, 0
 2020-03-23 00:00:00, Uruguay, 23, 0
 2020-03-22 00:00:00, Uruguay, 25, 0
 2020-03-21 00:00:00, Uruguay, 16, 0
@@ -6198,6 +6376,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Uruguay, 21, 0
 2020-03-16 00:00:00, Uruguay, 2, 0
 2020-03-15 00:00:00, Uruguay, 6, 0
+2020-03-24 00:00:00, Uzbekistan, 3, 0
 2020-03-23 00:00:00, Uzbekistan, 13, 0
 2020-03-22 00:00:00, Uzbekistan, 0, 0
 2020-03-21 00:00:00, Uzbekistan, 10, 0
@@ -6206,6 +6385,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-18 00:00:00, Uzbekistan, 8, 0
 2020-03-17 00:00:00, Uzbekistan, 2, 0
 2020-03-16 00:00:00, Uzbekistan, 6, 0
+2020-03-24 00:00:00, Venezuela, 48, 0
 2020-03-23 00:00:00, Venezuela, 0, 0
 2020-03-22 00:00:00, Venezuela, 0, 0
 2020-03-21 00:00:00, Venezuela, 3, 0
@@ -6215,6 +6395,7 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-03-17 00:00:00, Venezuela, 18, 0
 2020-03-16 00:00:00, Venezuela, 5, 0
 2020-03-15 00:00:00, Venezuela, 10, 0
+2020-03-24 00:00:00, Vietnam, 5, 0
 2020-03-23 00:00:00, Vietnam, 24, 0
 2020-03-22 00:00:00, Vietnam, 7, 0
 2020-03-21 00:00:00, Vietnam, 2, 0
@@ -6295,11 +6476,13 @@ DateRep, Countries and territories, NewConfCases, NewDeaths
 2020-01-02 00:00:00, Vietnam, 0, 0
 2020-01-01 00:00:00, Vietnam, 0, 0
 2019-12-31 00:00:00, Vietnam, 0, 0
+2020-03-24 00:00:00, Zambia, 0, 0
 2020-03-23 00:00:00, Zambia, 1, 0
 2020-03-22 00:00:00, Zambia, 0, 0
 2020-03-21 00:00:00, Zambia, 0, 0
 2020-03-20 00:00:00, Zambia, 0, 0
 2020-03-19 00:00:00, Zambia, 2, 0
+2020-03-24 00:00:00, Zimbabwe, 0, 1
 2020-03-23 00:00:00, Zimbabwe, 0, 0
 2020-03-22 00:00:00, Zimbabwe, 1, 0
 2020-03-21 00:00:00, Zimbabwe, 1, 0
